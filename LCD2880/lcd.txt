@@ -1,0 +1,8 @@
+rmbp:~ yarshure$ ioreg -lw0 | grep IODisplayEDID | sed "/[^<]*</s///" | xxd -p -r | strings -6
+Color LCD
+Color LCD
+rmbp:~ yarshure$ ioreg -lw0 | grep \"EDID\" | sed "/[^<]*</s///" | xxd -p -r | strings -6
+Color LCD
+LSN154YL01001
+DLM230202DRF49HAC
+

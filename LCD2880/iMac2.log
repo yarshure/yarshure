@@ -1,0 +1,1464 @@
+May 10 10:44:56 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: NULL auth_window
+May 10 10:44:56 iMac-yarshure.local WindowServer[94]: Created shield window 0x6e for display 0x003f003d
+May 10 10:44:56 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: NULL auth_window
+May 10 10:44:56 iMac-yarshure.local WindowServer[94]: Created shield window 0x6f for display 0x003f003e
+May 10 10:44:56 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: NULL auth_window
+May 10 10:44:56 iMac-yarshure.local WindowServer[94]: Created shield window 0x70 for display 0x003f003f
+May 10 10:44:56 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: NULL auth_window
+May 10 10:44:56 iMac-yarshure.local WindowServer[94]: Created shield window 0x71 for display 0x003f0040
+May 10 10:44:56 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: NULL auth_window
+May 10 11:08:49 iMac-yarshure.local WindowServer[94]: Created shield window 0x76 for display 0x042801c0
+May 10 11:08:49 iMac-yarshure.local WindowServer[94]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 10 11:08:49 iMac-yarshure.local WindowServer[94]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 10 11:08:49 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 11:08:49 iMac-yarshure.local WindowServer[94]: Received display connect changed for display 0x42801c0
+May 10 11:08:49 iMac-yarshure.local WindowServer[94]: No display devices are on-line. Switching to virtual display mode
+May 10 11:08:49 iMac-yarshure.local WindowServer[94]: Received display connect changed for display 0x3f003d
+May 10 11:08:49 iMac-yarshure.local WindowServer[94]: Received display connect changed for display 0x3f003e
+May 10 11:08:49 iMac-yarshure.local WindowServer[94]: Received display connect changed for display 0x3f003f
+May 10 11:08:49 iMac-yarshure.local WindowServer[94]: Received display connect changed for display 0x3f0040
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: Created shield window 0x77 for display 0x003f003d
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: Created shield window 0x78 for display 0x003f003e
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: Created shield window 0x79 for display 0x003f003f
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: Created shield window 0x7a for display 0x003f0040
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: Display 0x41dc9d00: GL mask 0x1; bounds (0, 0)[1280 x 720], 11 modes available
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: Display 0x41dc9d04: GL mask 0x10; bounds (2304, 0)[1 x 1], 2 modes available
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: Display 0x41dc9d03: GL mask 0x8; bounds (2305, 0)[1 x 1], 2 modes available
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: Display 0x41dc9d02: GL mask 0x4; bounds (2306, 0)[1 x 1], 2 modes available
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: Display 0x41dc9d01: GL mask 0x2; bounds (2307, 0)[1 x 1], 2 modes available
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: Created shield window 0x7b for display 0x41dc9d00
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: Created shield window 0x7c for display 0x41dc9d04
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: Created shield window 0x7d for display 0x41dc9d03
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: Created shield window 0x7e for display 0x41dc9d02
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: Created shield window 0x7f for display 0x41dc9d01
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: Display added
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: Display removed
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: Display 0x41dc9d00: GL mask 0x1; bounds (0, 0)[1280 x 720], 11 modes available
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: Display 0x41dc9d04: GL mask 0x10; bounds (2304, 0)[1 x 1], 2 modes available
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: Display 0x41dc9d03: GL mask 0x8; bounds (2305, 0)[1 x 1], 2 modes available
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: Display 0x41dc9d02: GL mask 0x4; bounds (2306, 0)[1 x 1], 2 modes available
+May 10 11:08:50 iMac-yarshure.local WindowServer[94]: Display 0x41dc9d01: GL mask 0x2; bounds (2307, 0)[1 x 1], 2 modes available
+May 10 11:08:52 iMac-yarshure.local WindowServer[94]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 10 11:08:52 iMac-yarshure.local WindowServer[94]: Created shield window 0x83 for display 0x41dc9d00
+May 10 11:08:52 iMac-yarshure.local WindowServer[94]: Display 0x41dc9d00: VirtualDisplay Unit 0; ColorProfile { 1, "Default(sRGB IEC61966-2.1)"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Received display connect changed for display 0x3f003c
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: New display device coming on-line. Switching from virtual display mode
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Created shield window 0x84 for display 0x042801c0
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Received display connect changed for display 0x3f003d
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Received display connect changed for display 0x3f003e
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Received display connect changed for display 0x3f003f
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Received display connect changed for display 0x3f0040
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Display 0x003f0040: GL mask 0x10; bounds (2304, 0)[1 x 1], 1 modes available
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Display 0x003f003f: GL mask 0x8; bounds (2305, 0)[1 x 1], 1 modes available
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Display 0x003f003e: GL mask 0x4; bounds (2306, 0)[1 x 1], 1 modes available
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Display 0x003f003d: GL mask 0x2; bounds (2307, 0)[1 x 1], 1 modes available
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Created shield window 0x85 for display 0x003f0040
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Created shield window 0x86 for display 0x003f003f
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Created shield window 0x87 for display 0x003f003e
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Created shield window 0x88 for display 0x003f003d
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Created shield window 0x89 for display 0x042801c0
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Display 0x042801c0: MappedDisplay Unit 0: Startup Mode 1280 x 720, CGSThirtytwoBitColor, Resolution 2, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Display mode changed
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Display added
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Display removed
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[1280 x 720], 54 modes available
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Display 0x003f0040: GL mask 0x10; bounds (2304, 0)[1 x 1], 1 modes available
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Display 0x003f003f: GL mask 0x8; bounds (2305, 0)[1 x 1], 1 modes available
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Display 0x003f003e: GL mask 0x4; bounds (2306, 0)[1 x 1], 1 modes available
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: Display 0x003f003d: GL mask 0x2; bounds (2307, 0)[1 x 1], 1 modes available
+May 10 11:56:28 iMac-yarshure.local WindowServer[94]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x100ba9a10  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 10 11:56:30 iMac-yarshure.local WindowServer[94]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 10 11:56:30 iMac-yarshure.local WindowServer[94]: Created shield window 0x8e for display 0x042801c0
+May 10 11:56:30 iMac-yarshure.local WindowServer[94]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}
+May 10 11:56:30 iMac-yarshure.local WindowServer[94]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 10 11:56:30 iMac-yarshure.local WindowServer[94]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 10 11:56:30 iMac-yarshure.local WindowServer[94]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 10 12:01:29 iMac-yarshure.local WindowServer[94]: Created shield window 0x8f for display 0x042801c0
+May 10 12:01:29 iMac-yarshure.local WindowServer[94]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 10 12:01:29 iMac-yarshure.local WindowServer[94]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 10 13:06:15 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 10 13:06:15 iMac-yarshure.local WindowServer[94]: Created shield window 0x90 for display 0x003f003d
+May 10 13:06:15 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 10 13:06:15 iMac-yarshure.local WindowServer[94]: Created shield window 0x91 for display 0x003f003e
+May 10 13:06:15 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 10 13:06:15 iMac-yarshure.local WindowServer[94]: Created shield window 0x92 for display 0x003f003f
+May 10 13:06:15 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 10 13:06:15 iMac-yarshure.local WindowServer[94]: Created shield window 0x93 for display 0x003f0040
+May 10 13:06:15 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 10 13:07:13 iMac-yarshure.local WindowServer[94]: Created shield window 0x97 for display 0x042801c0
+May 10 13:07:13 iMac-yarshure.local WindowServer[94]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 10 13:07:13 iMac-yarshure.local WindowServer[94]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 10 13:07:14 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 13:07:14 iMac-yarshure.local WindowServer[94]: Received display connect changed for display 0x42801c0
+May 10 13:07:14 iMac-yarshure.local WindowServer[94]: No display devices are on-line. Switching to virtual display mode
+May 10 13:07:14 iMac-yarshure.local WindowServer[94]: Received display connect changed for display 0x3f003d
+May 10 13:07:14 iMac-yarshure.local WindowServer[94]: Received display connect changed for display 0x3f003e
+May 10 13:07:14 iMac-yarshure.local WindowServer[94]: Received display connect changed for display 0x3f003f
+May 10 13:07:14 iMac-yarshure.local WindowServer[94]: Received display connect changed for display 0x3f0040
+May 10 13:07:14 iMac-yarshure.local WindowServer[94]: Created shield window 0x98 for display 0x003f003d
+May 10 13:07:14 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 13:07:14 iMac-yarshure.local WindowServer[94]: Created shield window 0x99 for display 0x003f003e
+May 10 13:07:14 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 13:07:14 iMac-yarshure.local WindowServer[94]: Created shield window 0x9a for display 0x003f003f
+May 10 13:07:14 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 13:07:14 iMac-yarshure.local WindowServer[94]: Created shield window 0x9b for display 0x003f0040
+May 10 13:07:14 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 13:07:14 iMac-yarshure.local WindowServer[94]: Display 0x41dc9d00: GL mask 0x1; bounds (0, 0)[1280 x 720], 11 modes available
+May 10 13:07:14 iMac-yarshure.local WindowServer[94]: Display 0x41dc9d04: GL mask 0x10; bounds (2304, 0)[1 x 1], 2 modes available
+May 10 13:07:14 iMac-yarshure.local WindowServer[94]: Display 0x41dc9d03: GL mask 0x8; bounds (2305, 0)[1 x 1], 2 modes available
+May 10 13:07:14 iMac-yarshure.local WindowServer[94]: Display 0x41dc9d02: GL mask 0x4; bounds (2306, 0)[1 x 1], 2 modes available
+May 10 13:07:14 iMac-yarshure.local WindowServer[94]: Display 0x41dc9d01: GL mask 0x2; bounds (2307, 0)[1 x 1], 2 modes available
+May 10 13:07:15 iMac-yarshure.local WindowServer[94]: Created shield window 0x9c for display 0x41dc9d00
+May 10 13:07:15 iMac-yarshure.local WindowServer[94]: Created shield window 0x9d for display 0x41dc9d04
+May 10 13:07:15 iMac-yarshure.local WindowServer[94]: Created shield window 0x9e for display 0x41dc9d03
+May 10 13:07:15 iMac-yarshure.local WindowServer[94]: Created shield window 0x9f for display 0x41dc9d02
+May 10 13:07:15 iMac-yarshure.local WindowServer[94]: Created shield window 0xa0 for display 0x41dc9d01
+May 10 13:07:15 iMac-yarshure.local WindowServer[94]: Display added
+May 10 13:07:15 iMac-yarshure.local WindowServer[94]: Display removed
+May 10 13:07:15 iMac-yarshure.local WindowServer[94]: Display 0x41dc9d00: GL mask 0x1; bounds (0, 0)[1280 x 720], 11 modes available
+May 10 13:07:15 iMac-yarshure.local WindowServer[94]: Display 0x41dc9d04: GL mask 0x10; bounds (2304, 0)[1 x 1], 2 modes available
+May 10 13:07:15 iMac-yarshure.local WindowServer[94]: Display 0x41dc9d03: GL mask 0x8; bounds (2305, 0)[1 x 1], 2 modes available
+May 10 13:07:15 iMac-yarshure.local WindowServer[94]: Display 0x41dc9d02: GL mask 0x4; bounds (2306, 0)[1 x 1], 2 modes available
+May 10 13:07:15 iMac-yarshure.local WindowServer[94]: Display 0x41dc9d01: GL mask 0x2; bounds (2307, 0)[1 x 1], 2 modes available
+May 10 13:07:17 iMac-yarshure.local WindowServer[94]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 10 13:07:17 iMac-yarshure.local WindowServer[94]: Created shield window 0xa4 for display 0x41dc9d00
+May 10 13:07:17 iMac-yarshure.local WindowServer[94]: Display 0x41dc9d00: VirtualDisplay Unit 0; ColorProfile { 1, "Default(sRGB IEC61966-2.1)"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 10 16:02:58 iMac-yarshure.local WindowServer[94]: Received display connect changed for display 0x3f003c
+May 10 16:02:58 iMac-yarshure.local WindowServer[94]: New display device coming on-line. Switching from virtual display mode
+May 10 16:02:58 iMac-yarshure.local WindowServer[94]: Created shield window 0xa5 for display 0x042801c0
+May 10 16:02:58 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 16:02:58 iMac-yarshure.local WindowServer[94]: Received display connect changed for display 0x3f003d
+May 10 16:02:58 iMac-yarshure.local WindowServer[94]: Received display connect changed for display 0x3f003e
+May 10 16:02:58 iMac-yarshure.local WindowServer[94]: Received display connect changed for display 0x3f003f
+May 10 16:02:58 iMac-yarshure.local WindowServer[94]: Received display connect changed for display 0x3f0040
+May 10 16:02:59 iMac-yarshure.local WindowServer[94]: Display 0x003f0040: GL mask 0x10; bounds (2304, 0)[1 x 1], 1 modes available
+May 10 16:02:59 iMac-yarshure.local WindowServer[94]: Display 0x003f003f: GL mask 0x8; bounds (2305, 0)[1 x 1], 1 modes available
+May 10 16:02:59 iMac-yarshure.local WindowServer[94]: Display 0x003f003e: GL mask 0x4; bounds (2306, 0)[1 x 1], 1 modes available
+May 10 16:02:59 iMac-yarshure.local WindowServer[94]: Display 0x003f003d: GL mask 0x2; bounds (2307, 0)[1 x 1], 1 modes available
+May 10 16:02:59 iMac-yarshure.local WindowServer[94]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 10 16:02:59 iMac-yarshure.local WindowServer[94]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 10 16:02:59 iMac-yarshure.local WindowServer[94]: Created shield window 0xa6 for display 0x003f0040
+May 10 16:02:59 iMac-yarshure.local WindowServer[94]: Created shield window 0xa7 for display 0x003f003f
+May 10 16:02:59 iMac-yarshure.local WindowServer[94]: Created shield window 0xa8 for display 0x003f003e
+May 10 16:02:59 iMac-yarshure.local WindowServer[94]: Created shield window 0xa9 for display 0x003f003d
+May 10 16:02:59 iMac-yarshure.local WindowServer[94]: Created shield window 0xaa for display 0x042801c0
+May 10 16:02:59 iMac-yarshure.local WindowServer[94]: Display 0x042801c0: MappedDisplay Unit 0: Startup Mode 1280 x 720, CGSThirtytwoBitColor, Resolution 2, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 10 16:02:59 iMac-yarshure.local WindowServer[94]: Display mode changed
+May 10 16:02:59 iMac-yarshure.local WindowServer[94]: Display added
+May 10 16:02:59 iMac-yarshure.local WindowServer[94]: Display removed
+May 10 16:02:59 iMac-yarshure.local WindowServer[94]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[1280 x 720], 54 modes available
+May 10 16:02:59 iMac-yarshure.local WindowServer[94]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 10 16:02:59 iMac-yarshure.local WindowServer[94]: Display 0x003f0040: GL mask 0x10; bounds (2304, 0)[1 x 1], 1 modes available
+May 10 16:02:59 iMac-yarshure.local WindowServer[94]: Display 0x003f003f: GL mask 0x8; bounds (2305, 0)[1 x 1], 1 modes available
+May 10 16:02:59 iMac-yarshure.local WindowServer[94]: Display 0x003f003e: GL mask 0x4; bounds (2306, 0)[1 x 1], 1 modes available
+May 10 16:02:59 iMac-yarshure.local WindowServer[94]: Display 0x003f003d: GL mask 0x2; bounds (2307, 0)[1 x 1], 1 modes available
+May 10 16:02:59 iMac-yarshure.local WindowServer[94]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x100ba9a10  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 10 16:03:00 iMac-yarshure.local WindowServer[94]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 10 16:03:00 iMac-yarshure.local WindowServer[94]: Created shield window 0xaf for display 0x042801c0
+May 10 16:03:00 iMac-yarshure.local WindowServer[94]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 5, "iMac"}
+May 10 16:03:01 iMac-yarshure.local WindowServer[94]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 5, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 10 16:03:01 iMac-yarshure.local WindowServer[94]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 10 16:03:01 iMac-yarshure.local WindowServer[94]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 5, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 10 16:14:50 iMac-yarshure.local WindowServer[94]: Created shield window 0xb0 for display 0x042801c0
+May 10 16:14:50 iMac-yarshure.local WindowServer[94]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 10 16:14:50 iMac-yarshure.local WindowServer[94]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 10 16:51:20 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 10 16:51:20 iMac-yarshure.local WindowServer[94]: Created shield window 0xb1 for display 0x003f003d
+May 10 16:51:20 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 10 16:51:20 iMac-yarshure.local WindowServer[94]: Created shield window 0xb2 for display 0x003f003e
+May 10 16:51:20 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 10 16:51:20 iMac-yarshure.local WindowServer[94]: Created shield window 0xb3 for display 0x003f003f
+May 10 16:51:20 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 10 16:51:20 iMac-yarshure.local WindowServer[94]: Created shield window 0xb4 for display 0x003f0040
+May 10 16:51:20 iMac-yarshure.local WindowServer[94]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 10 16:59:46 iMac-yarshure.local WindowServer[94]: CGXGetConnectionProperty: Invalid connection 53507
+May 10 16:59:46 iMac-yarshure.local WindowServer[94]: CGXDeferSurfaces : Invalid source window 53
+May 10 16:59:47 iMac-yarshure.local WindowServer[94]: dict count after removing entry for window 0x2a is 0
+May 10 16:59:47 iMac-yarshure.local WindowServer[94]: CGXGetConnectionProperty: Invalid connection 53507
+May 10 16:59:47 iMac-yarshure.local WindowServer[94]: CGXRestartSessionWorkspace: session workspace exited for session 256 (on console)
+May 10 16:59:47 iMac-yarshure.local WindowServer[94]: Session 256 released (1 references)
+May 10 16:59:47 iMac-yarshure.local WindowServer[94]: Session 256 released (0 references)
+May 10 16:59:47 iMac-yarshure.local WindowServer[94]: loginwindow connection closed; closing server.
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: Server is starting up
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: Session 256 retained (2 references)
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: Session 256 released (1 references)
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: Session 256 retained (2 references)
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: init_page_flip: page flip mode is on
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: init_resolution: resolution is enabled
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: mux_initialize: Couldn't find any matches
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: GLCompositor enabled for tile size [256 x 256]
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: CGXGLInitMipMap: mip map mode is on
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: WSMachineUsesNewStyleMirroring: false
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: Display 0x003f0040: GL mask 0x10; bounds (0, 0)[0 x 0], 1 modes available
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: Display 0x003f003f: GL mask 0x8; bounds (0, 0)[0 x 0], 1 modes available
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: Display 0x003f003e: GL mask 0x4; bounds (0, 0)[0 x 0], 1 modes available
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: Display 0x003f003d: GL mask 0x2; bounds (0, 0)[0 x 0], 1 modes available
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: Created shield window 0x4 for display 0x042801c0
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: Created shield window 0x5 for display 0x003f0040
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: Created shield window 0x6 for display 0x003f003f
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: Created shield window 0x7 for display 0x003f003e
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: Created shield window 0x8 for display 0x003f003d
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[1280 x 720], 54 modes available
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: Display 0x003f0040: GL mask 0x10; bounds (2304, 0)[1 x 1], 1 modes available
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: Display 0x003f003f: GL mask 0x8; bounds (2305, 0)[1 x 1], 1 modes available
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: Display 0x003f003e: GL mask 0x4; bounds (2306, 0)[1 x 1], 1 modes available
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: Display 0x003f003d: GL mask 0x2; bounds (2307, 0)[1 x 1], 1 modes available
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: CGXPerformInitialDisplayConfiguration
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]:   Display 0x042801c0: MappedDisplay Unit 0; Vendor 0x610 Model 0xa007 S/N 0 Dimensions 23.50 x 13.23; online enabled built-in, Bounds (0,0)[1280 x 720], Rotation 0, Resolution 2
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]:   Display 0x003f0040: MappedDisplay Unit 4; Vendor 0xffffffff Model 0xffffffff S/N -1 Dimensions 0.00 x 0.00; offline enabled, Bounds (2304,0)[1 x 1], Rotation 0, Resolution 1
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]:   Display 0x003f003f: MappedDisplay Unit 3; Vendor 0xffffffff Model 0xffffffff S/N -1 Dimensions 0.00 x 0.00; offline enabled, Bounds (2305,0)[1 x 1], Rotation 0, Resolution 1
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]:   Display 0x003f003e: MappedDisplay Unit 2; Vendor 0xffffffff Model 0xffffffff S/N -1 Dimensions 0.00 x 0.00; offline enabled, Bounds (2306,0)[1 x 1], Rotation 0, Resolution 1
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]:   Display 0x003f003d: MappedDisplay Unit 1; Vendor 0xffffffff Model 0xffffffff S/N -1 Dimensions 0.00 x 0.00; offline enabled, Bounds (2307,0)[1 x 1], Rotation 0, Resolution 1
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x00004923, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, texture units 8, texture max 16384, viewport max {16384, 16384}, extensions FPRG|NPOT|GLSL|FLOAT
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: Created shield window 0x9 for display 0x042801c0
+May 10 16:59:47 iMac-yarshure.local WindowServer[878]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 2, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 10 16:59:49 iMac-yarshure.local WindowServer[878]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 10 16:59:49 iMac-yarshure.local WindowServer[878]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 2, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 10 16:59:50 iMac-yarshure.local WindowServer[878]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x10a3d9a10  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 10 17:02:06 iMac-yarshure.local WindowServer[91]: Server is starting up
+May 10 17:02:06 iMac-yarshure.local WindowServer[91]: Session 256 retained (2 references)
+May 10 17:02:06 iMac-yarshure.local WindowServer[91]: Session 256 released (1 references)
+May 10 17:02:06 iMac-yarshure.local WindowServer[91]: Session 256 retained (2 references)
+May 10 17:02:07 iMac-yarshure.local WindowServer[91]: init_page_flip: page flip mode is on
+May 10 17:02:07 iMac-yarshure.local WindowServer[91]: init_resolution: resolution is enabled
+May 10 17:02:07 iMac-yarshure.local WindowServer[91]: mux_initialize: Couldn't find any matches
+May 10 17:02:07 iMac-yarshure.local WindowServer[91]: GLCompositor enabled for tile size [256 x 256]
+May 10 17:02:07 iMac-yarshure.local WindowServer[91]: CGXGLInitMipMap: mip map mode is on
+May 10 17:02:07 iMac-yarshure.local WindowServer[91]: WSMachineUsesNewStyleMirroring: false
+May 10 17:02:07 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 10 17:02:07 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (0, 0)[0 x 0], 1 modes available
+May 10 17:02:07 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (0, 0)[0 x 0], 1 modes available
+May 10 17:02:07 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (0, 0)[0 x 0], 1 modes available
+May 10 17:02:07 iMac-yarshure.local WindowServer[91]: Display 0x003f003d: GL mask 0x2; bounds (0, 0)[0 x 0], 1 modes available
+May 10 17:02:08 iMac-yarshure.local WindowServer[91]: Created shield window 0x5 for display 0x042801c0
+May 10 17:02:08 iMac-yarshure.local WindowServer[91]: Created shield window 0x6 for display 0x003f0040
+May 10 17:02:08 iMac-yarshure.local WindowServer[91]: Created shield window 0x7 for display 0x003f003f
+May 10 17:02:08 iMac-yarshure.local WindowServer[91]: Created shield window 0x8 for display 0x003f003e
+May 10 17:02:08 iMac-yarshure.local WindowServer[91]: Created shield window 0x9 for display 0x003f003d
+May 10 17:02:08 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[1280 x 720], 54 modes available
+May 10 17:02:08 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (2304, 0)[1 x 1], 1 modes available
+May 10 17:02:08 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (2305, 0)[1 x 1], 1 modes available
+May 10 17:02:08 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (2306, 0)[1 x 1], 1 modes available
+May 10 17:02:08 iMac-yarshure.local WindowServer[91]: Display 0x003f003d: GL mask 0x2; bounds (2307, 0)[1 x 1], 1 modes available
+May 10 17:02:08 iMac-yarshure.local WindowServer[91]: CGXPerformInitialDisplayConfiguration
+May 10 17:02:08 iMac-yarshure.local WindowServer[91]:   Display 0x042801c0: MappedDisplay Unit 0; Vendor 0x610 Model 0xa007 S/N 0 Dimensions 23.50 x 13.23; online enabled built-in, Bounds (0,0)[1280 x 720], Rotation 0, Resolution 2
+May 10 17:02:08 iMac-yarshure.local WindowServer[91]:   Display 0x003f0040: MappedDisplay Unit 4; Vendor 0xffffffff Model 0xffffffff S/N -1 Dimensions 0.00 x 0.00; offline enabled, Bounds (2304,0)[1 x 1], Rotation 0, Resolution 1
+May 10 17:02:08 iMac-yarshure.local WindowServer[91]:   Display 0x003f003f: MappedDisplay Unit 3; Vendor 0xffffffff Model 0xffffffff S/N -1 Dimensions 0.00 x 0.00; offline enabled, Bounds (2305,0)[1 x 1], Rotation 0, Resolution 1
+May 10 17:02:08 iMac-yarshure.local WindowServer[91]:   Display 0x003f003e: MappedDisplay Unit 2; Vendor 0xffffffff Model 0xffffffff S/N -1 Dimensions 0.00 x 0.00; offline enabled, Bounds (2306,0)[1 x 1], Rotation 0, Resolution 1
+May 10 17:02:08 iMac-yarshure.local WindowServer[91]:   Display 0x003f003d: MappedDisplay Unit 1; Vendor 0xffffffff Model 0xffffffff S/N -1 Dimensions 0.00 x 0.00; offline enabled, Bounds (2307,0)[1 x 1], Rotation 0, Resolution 1
+May 10 17:02:08 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 10 17:02:08 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, texture units 8, texture max 16384, viewport max {16384, 16384}, extensions FPRG|NPOT|GLSL|FLOAT
+May 10 17:02:08 iMac-yarshure.local WindowServer[91]: Unable to open IOHIDSystem (e00002bd)
+May 10 17:02:10 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 10 17:02:11 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x10acaca10  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 10 17:02:18 iMac-yarshure.local WindowServer[91]: Created shield window 0xa for display 0x042801c0
+May 10 17:02:18 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 2, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 10 17:02:19 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 2, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 10 17:02:36 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 10 17:02:37 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 2, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 10 17:02:37 iMac-yarshure.local WindowServer[91]: kCGErrorNotImplemented: receive_notification: CPXSetEventFilter failed
+May 10 17:02:38 iMac-yarshure.local WindowServer[91]: kCGErrorNotImplemented: receive_notification: CPXSetEventFilter failed
+May 10 17:02:38 iMac-yarshure.local WindowServer[91]: kCGErrorNotImplemented: receive_notification: CPXSetEventFilter failed
+May 10 17:02:39 iMac-yarshure.local WindowServer[91]: kCGErrorNotImplemented: receive_notification: CPXSetEventFilter failed
+May 10 17:02:44 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "Activity Monitor" for over 1.00 seconds. Server has re-enabled them.
+May 10 17:02:44 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "Activity Monitor" after 1.27 seconds (server forcibly re-enabled them after 1.00 seconds)
+May 10 17:02:44 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "Messages" for over 1.00 seconds. Server has re-enabled them.
+May 10 17:02:46 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "Messages" after 3.08 seconds (server forcibly re-enabled them after 1.00 seconds)
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: post_notification : Time out waiting for reply from "com.apple.qtkitserver" for notification type 102 (CID 0x3117, PID 243)
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: post_notification : Time out waiting for reply from "storeagent" for notification type 102 (CID 0x11b03, PID 195)
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: Created shield window 0x49 for display 0x042801c0
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x42801c0
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: No display devices are on-line. Switching to virtual display mode
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003d
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003e
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003f
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f0040
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: Created shield window 0x4a for display 0x003f003d
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: Created shield window 0x4b for display 0x003f003e
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: Created shield window 0x4c for display 0x003f003f
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: Created shield window 0x4d for display 0x003f0040
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: Display 0x41dc9d04: GL mask 0x10; bounds (0, 0)[1280 x 1024], 2 modes available
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: Display 0x41dc9d03: GL mask 0x8; bounds (0, 0)[1280 x 1024], 2 modes available
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: Display 0x41dc9d02: GL mask 0x4; bounds (0, 0)[1280 x 1024], 2 modes available
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: Display 0x41dc9d01: GL mask 0x2; bounds (0, 0)[1280 x 1024], 2 modes available
+May 10 17:03:01 iMac-yarshure.local WindowServer[91]: Display 0x41dc9d00: GL mask 0x1; bounds (0, 0)[1280 x 720], 11 modes available
+May 10 17:03:02 iMac-yarshure.local WindowServer[91]: Created shield window 0x4e for display 0x41dc9d04
+May 10 17:03:02 iMac-yarshure.local WindowServer[91]: Created shield window 0x4f for display 0x41dc9d03
+May 10 17:03:02 iMac-yarshure.local WindowServer[91]: Created shield window 0x50 for display 0x41dc9d02
+May 10 17:03:02 iMac-yarshure.local WindowServer[91]: Created shield window 0x51 for display 0x41dc9d01
+May 10 17:03:02 iMac-yarshure.local WindowServer[91]: Created shield window 0x52 for display 0x41dc9d00
+May 10 17:03:02 iMac-yarshure.local WindowServer[91]: Display added
+May 10 17:03:02 iMac-yarshure.local WindowServer[91]: Display removed
+May 10 17:03:02 iMac-yarshure.local WindowServer[91]: Display 0x41dc9d00: GL mask 0x1; bounds (0, 0)[1280 x 720], 11 modes available
+May 10 17:03:02 iMac-yarshure.local WindowServer[91]: Display 0x41dc9d04: GL mask 0x10; bounds (2304, 0)[1 x 1], 2 modes available
+May 10 17:03:02 iMac-yarshure.local WindowServer[91]: Display 0x41dc9d03: GL mask 0x8; bounds (2305, 0)[1 x 1], 2 modes available
+May 10 17:03:02 iMac-yarshure.local WindowServer[91]: Display 0x41dc9d02: GL mask 0x4; bounds (2306, 0)[1 x 1], 2 modes available
+May 10 17:03:02 iMac-yarshure.local WindowServer[91]: Display 0x41dc9d01: GL mask 0x2; bounds (2307, 0)[1 x 1], 2 modes available
+May 10 17:03:04 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 10 17:03:04 iMac-yarshure.local WindowServer[91]: Created shield window 0x5a for display 0x41dc9d00
+May 10 17:03:04 iMac-yarshure.local WindowServer[91]: Display 0x41dc9d00: VirtualDisplay Unit 0; ColorProfile { 1, "Default(sRGB IEC61966-2.1)"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 10 18:34:11 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003c
+May 10 18:34:11 iMac-yarshure.local WindowServer[91]: New display device coming on-line. Switching from virtual display mode
+May 10 18:34:11 iMac-yarshure.local WindowServer[91]: Created shield window 0x5b for display 0x042801c0
+May 10 18:34:11 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 18:34:11 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003d
+May 10 18:34:11 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003e
+May 10 18:34:11 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003f
+May 10 18:34:11 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f0040
+May 10 18:34:11 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (2304, 0)[1 x 1], 1 modes available
+May 10 18:34:11 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (2305, 0)[1 x 1], 1 modes available
+May 10 18:34:11 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (2306, 0)[1 x 1], 1 modes available
+May 10 18:34:11 iMac-yarshure.local WindowServer[91]: Display 0x003f003d: GL mask 0x2; bounds (2307, 0)[1 x 1], 1 modes available
+May 10 18:34:11 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 10 18:34:11 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 10 18:34:12 iMac-yarshure.local WindowServer[91]: Created shield window 0x5c for display 0x003f0040
+May 10 18:34:12 iMac-yarshure.local WindowServer[91]: Created shield window 0x5d for display 0x003f003f
+May 10 18:34:12 iMac-yarshure.local WindowServer[91]: Created shield window 0x5e for display 0x003f003e
+May 10 18:34:12 iMac-yarshure.local WindowServer[91]: Created shield window 0x5f for display 0x003f003d
+May 10 18:34:12 iMac-yarshure.local WindowServer[91]: Created shield window 0x60 for display 0x042801c0
+May 10 18:34:12 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0: Startup Mode 1280 x 720, CGSThirtytwoBitColor, Resolution 2, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 10 18:34:12 iMac-yarshure.local WindowServer[91]: Display mode changed
+May 10 18:34:12 iMac-yarshure.local WindowServer[91]: Display added
+May 10 18:34:12 iMac-yarshure.local WindowServer[91]: Display removed
+May 10 18:34:12 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[1280 x 720], 54 modes available
+May 10 18:34:12 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 10 18:34:12 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (2304, 0)[1 x 1], 1 modes available
+May 10 18:34:12 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (2305, 0)[1 x 1], 1 modes available
+May 10 18:34:12 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (2306, 0)[1 x 1], 1 modes available
+May 10 18:34:12 iMac-yarshure.local WindowServer[91]: Display 0x003f003d: GL mask 0x2; bounds (2307, 0)[1 x 1], 1 modes available
+May 10 18:34:12 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x10acaca10  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 10 18:34:13 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 10 18:34:13 iMac-yarshure.local WindowServer[91]: Created shield window 0x65 for display 0x042801c0
+May 10 18:34:13 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 3, "iMac"}
+May 10 18:34:13 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 3, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 10 18:34:14 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 10 18:34:14 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 3, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 10 18:39:11 iMac-yarshure.local WindowServer[91]: Created shield window 0x66 for display 0x042801c0
+May 10 18:39:11 iMac-yarshure.local WindowServer[91]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 10 18:39:11 iMac-yarshure.local WindowServer[91]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 10 18:39:25 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 18:39:25 iMac-yarshure.local WindowServer[91]: Created shield window 0x67 for display 0x003f003d
+May 10 18:39:25 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 18:39:25 iMac-yarshure.local WindowServer[91]: Created shield window 0x68 for display 0x003f003e
+May 10 18:39:25 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 18:39:25 iMac-yarshure.local WindowServer[91]: Created shield window 0x69 for display 0x003f003f
+May 10 18:39:25 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 18:39:25 iMac-yarshure.local WindowServer[91]: Created shield window 0x6a for display 0x003f0040
+May 10 18:39:25 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 18:39:29 iMac-yarshure.local WindowServer[91]: Created shield window 0x6b for display 0x042801c0
+May 10 18:39:29 iMac-yarshure.local WindowServer[91]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 10 18:39:29 iMac-yarshure.local WindowServer[91]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 10 18:39:30 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 18:39:30 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x42801c0
+May 10 18:39:30 iMac-yarshure.local WindowServer[91]: No display devices are on-line. Switching to virtual display mode
+May 10 18:39:30 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003d
+May 10 18:39:30 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003e
+May 10 18:39:30 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003f
+May 10 18:39:30 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f0040
+May 10 18:39:30 iMac-yarshure.local WindowServer[91]: Created shield window 0x6c for display 0x003f003d
+May 10 18:39:30 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 18:39:30 iMac-yarshure.local WindowServer[91]: Created shield window 0x6d for display 0x003f003e
+May 10 18:39:30 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 18:39:30 iMac-yarshure.local WindowServer[91]: Created shield window 0x6e for display 0x003f003f
+May 10 18:39:30 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 18:39:30 iMac-yarshure.local WindowServer[91]: Created shield window 0x6f for display 0x003f0040
+May 10 18:39:30 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 18:39:30 iMac-yarshure.local WindowServer[91]: Display 0x41dc9d00: GL mask 0x1; bounds (0, 0)[1280 x 720], 11 modes available
+May 10 18:39:30 iMac-yarshure.local WindowServer[91]: Display 0x41dc9d04: GL mask 0x10; bounds (2304, 0)[1 x 1], 2 modes available
+May 10 18:39:30 iMac-yarshure.local WindowServer[91]: Display 0x41dc9d03: GL mask 0x8; bounds (2305, 0)[1 x 1], 2 modes available
+May 10 18:39:30 iMac-yarshure.local WindowServer[91]: Display 0x41dc9d02: GL mask 0x4; bounds (2306, 0)[1 x 1], 2 modes available
+May 10 18:39:30 iMac-yarshure.local WindowServer[91]: Display 0x41dc9d01: GL mask 0x2; bounds (2307, 0)[1 x 1], 2 modes available
+May 10 18:39:31 iMac-yarshure.local WindowServer[91]: Created shield window 0x70 for display 0x41dc9d00
+May 10 18:39:31 iMac-yarshure.local WindowServer[91]: Created shield window 0x71 for display 0x41dc9d04
+May 10 18:39:31 iMac-yarshure.local WindowServer[91]: Created shield window 0x72 for display 0x41dc9d03
+May 10 18:39:31 iMac-yarshure.local WindowServer[91]: Created shield window 0x73 for display 0x41dc9d02
+May 10 18:39:31 iMac-yarshure.local WindowServer[91]: Created shield window 0x74 for display 0x41dc9d01
+May 10 18:39:31 iMac-yarshure.local WindowServer[91]: Display added
+May 10 18:39:31 iMac-yarshure.local WindowServer[91]: Display removed
+May 10 18:39:31 iMac-yarshure.local WindowServer[91]: Display 0x41dc9d00: GL mask 0x1; bounds (0, 0)[1280 x 720], 11 modes available
+May 10 18:39:31 iMac-yarshure.local WindowServer[91]: Display 0x41dc9d04: GL mask 0x10; bounds (2304, 0)[1 x 1], 2 modes available
+May 10 18:39:31 iMac-yarshure.local WindowServer[91]: Display 0x41dc9d03: GL mask 0x8; bounds (2305, 0)[1 x 1], 2 modes available
+May 10 18:39:31 iMac-yarshure.local WindowServer[91]: Display 0x41dc9d02: GL mask 0x4; bounds (2306, 0)[1 x 1], 2 modes available
+May 10 18:39:31 iMac-yarshure.local WindowServer[91]: Display 0x41dc9d01: GL mask 0x2; bounds (2307, 0)[1 x 1], 2 modes available
+May 10 18:39:33 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 10 18:39:33 iMac-yarshure.local WindowServer[91]: Created shield window 0x78 for display 0x41dc9d00
+May 10 18:39:33 iMac-yarshure.local WindowServer[91]: Display 0x41dc9d00: VirtualDisplay Unit 0; ColorProfile { 1, "Default(sRGB IEC61966-2.1)"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 10 18:43:56 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003c
+May 10 18:43:56 iMac-yarshure.local WindowServer[91]: New display device coming on-line. Switching from virtual display mode
+May 10 18:43:56 iMac-yarshure.local WindowServer[91]: Created shield window 0x79 for display 0x042801c0
+May 10 18:43:56 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 10 18:43:56 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003d
+May 10 18:43:56 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003e
+May 10 18:43:56 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003f
+May 10 18:43:56 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f0040
+May 10 18:43:56 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (2304, 0)[1 x 1], 1 modes available
+May 10 18:43:56 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (2305, 0)[1 x 1], 1 modes available
+May 10 18:43:56 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (2306, 0)[1 x 1], 1 modes available
+May 10 18:43:56 iMac-yarshure.local WindowServer[91]: Display 0x003f003d: GL mask 0x2; bounds (2307, 0)[1 x 1], 1 modes available
+May 10 18:43:56 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 10 18:43:56 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 10 18:43:57 iMac-yarshure.local WindowServer[91]: Created shield window 0x7a for display 0x003f0040
+May 10 18:43:57 iMac-yarshure.local WindowServer[91]: Created shield window 0x7b for display 0x003f003f
+May 10 18:43:57 iMac-yarshure.local WindowServer[91]: Created shield window 0x7c for display 0x003f003e
+May 10 18:43:57 iMac-yarshure.local WindowServer[91]: Created shield window 0x7d for display 0x003f003d
+May 10 18:43:57 iMac-yarshure.local WindowServer[91]: Created shield window 0x7e for display 0x042801c0
+May 10 18:43:57 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0: Startup Mode 1280 x 720, CGSThirtytwoBitColor, Resolution 2, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 10 18:43:57 iMac-yarshure.local WindowServer[91]: Display mode changed
+May 10 18:43:57 iMac-yarshure.local WindowServer[91]: Display added
+May 10 18:43:57 iMac-yarshure.local WindowServer[91]: Display removed
+May 10 18:43:57 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[1280 x 720], 54 modes available
+May 10 18:43:57 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 10 18:43:57 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (2304, 0)[1 x 1], 1 modes available
+May 10 18:43:57 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (2305, 0)[1 x 1], 1 modes available
+May 10 18:43:57 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (2306, 0)[1 x 1], 1 modes available
+May 10 18:43:57 iMac-yarshure.local WindowServer[91]: Display 0x003f003d: GL mask 0x2; bounds (2307, 0)[1 x 1], 1 modes available
+May 10 18:43:57 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x10acaca10  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 10 18:43:58 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 10 18:43:58 iMac-yarshure.local WindowServer[91]: Created shield window 0x83 for display 0x042801c0
+May 10 18:43:58 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}
+May 10 18:43:58 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 10 18:43:59 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 10 18:43:59 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 10 19:01:30 iMac-yarshure.local WindowServer[91]: Created shield window 0x84 for display 0x042801c0
+May 10 19:01:30 iMac-yarshure.local WindowServer[91]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 10 19:01:30 iMac-yarshure.local WindowServer[91]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 10 19:03:09 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "Messages" for over 1.00 seconds. Server has re-enabled them.
+May 10 19:03:09 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "Messages" after 7.79 seconds (server forcibly re-enabled them after 7.70 seconds)
+May 10 19:17:16 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 10 19:17:16 iMac-yarshure.local WindowServer[91]: Created shield window 0x85 for display 0x003f003d
+May 10 19:17:16 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 10 19:17:16 iMac-yarshure.local WindowServer[91]: Created shield window 0x86 for display 0x003f003e
+May 10 19:17:16 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 10 19:17:16 iMac-yarshure.local WindowServer[91]: Created shield window 0x87 for display 0x003f003f
+May 10 19:17:16 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 10 19:17:16 iMac-yarshure.local WindowServer[91]: Created shield window 0x88 for display 0x003f0040
+May 10 19:17:16 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 10 19:27:15 iMac-yarshure.local WindowServer[91]: Created shield window 0x8e for display 0x042801c0
+May 10 19:27:15 iMac-yarshure.local WindowServer[91]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 10 19:27:15 iMac-yarshure.local WindowServer[91]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 10 21:28:56 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "Messages" for over 1.00 seconds. Server has re-enabled them.
+May 10 21:28:56 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "Messages" after 6.81 seconds (server forcibly re-enabled them after 6.79 seconds)
+May 11 01:29:42 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "Activity Monitor" for over 1.00 seconds. Server has re-enabled them.
+May 11 01:29:42 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "Activity Monitor" after 6.41 seconds (server forcibly re-enabled them after 6.41 seconds)
+May 11 11:07:02 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 11:07:02 iMac-yarshure.local WindowServer[91]: Created shield window 0x90 for display 0x003f003d
+May 11 11:07:02 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 11:07:02 iMac-yarshure.local WindowServer[91]: Created shield window 0x91 for display 0x003f003e
+May 11 11:07:02 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 11:07:02 iMac-yarshure.local WindowServer[91]: Created shield window 0x92 for display 0x003f003f
+May 11 11:07:02 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 11:07:02 iMac-yarshure.local WindowServer[91]: Created shield window 0x93 for display 0x003f0040
+May 11 11:07:02 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 11:20:22 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[1280 x 720], 54 modes available
+May 11 11:20:22 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 11:20:22 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (2304, 0)[1 x 1], 1 modes available
+May 11 11:20:22 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (2305, 0)[1 x 1], 1 modes available
+May 11 11:20:22 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (2306, 0)[1 x 1], 1 modes available
+May 11 11:20:22 iMac-yarshure.local WindowServer[91]: Display 0x003f003d: GL mask 0x2; bounds (2307, 0)[1 x 1], 1 modes available
+May 11 11:20:22 iMac-yarshure.local WindowServer[91]: Created shield window 0xbd for display 0x042801c0
+May 11 11:20:22 iMac-yarshure.local WindowServer[91]: Created shield window 0xbe for display 0x003f0040
+May 11 11:20:22 iMac-yarshure.local WindowServer[91]: Created shield window 0xbf for display 0x003f003f
+May 11 11:20:22 iMac-yarshure.local WindowServer[91]: Created shield window 0xc0 for display 0x003f003e
+May 11 11:20:22 iMac-yarshure.local WindowServer[91]: Created shield window 0xc1 for display 0x003f003d
+May 11 11:20:22 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0: Startup Mode 2560 x 1440, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 11 11:20:22 iMac-yarshure.local WindowServer[91]: Display mode changed
+May 11 11:20:22 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x10acaca10  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 11 11:20:22 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 11 11:20:22 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 11:20:22 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (3584, 0)[1 x 1], 1 modes available
+May 11 11:20:22 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (3585, 0)[1 x 1], 1 modes available
+May 11 11:20:22 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (3586, 0)[1 x 1], 1 modes available
+May 11 11:20:22 iMac-yarshure.local WindowServer[91]: Display 0x003f003d: GL mask 0x2; bounds (3587, 0)[1 x 1], 1 modes available
+May 11 11:20:24 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "通知中心" for over 1.00 seconds. Server has re-enabled them.
+May 11 11:20:24 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 11:20:24 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 11:20:38 iMac-yarshure.local WindowServer[91]: disable_update_likely_unbalanced: UI updates still disabled by application "通知中心" after 15.00 seconds (server forcibly re-enabled them after 1.00 seconds). Likely an unbalanced disableUpdate call.
+May 11 12:02:03 iMac-yarshure.local WindowServer[91]: Created shield window 0xe2 for display 0x042801c0
+May 11 12:02:03 iMac-yarshure.local WindowServer[91]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 12:02:03 iMac-yarshure.local WindowServer[91]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 12:03:04 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "Finder" for over 1.00 seconds. Server has re-enabled them.
+May 11 12:03:29 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 12:03:29 iMac-yarshure.local WindowServer[91]: Created shield window 0xe3 for display 0x003f003d
+May 11 12:03:29 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 12:03:29 iMac-yarshure.local WindowServer[91]: Created shield window 0xe4 for display 0x003f003e
+May 11 12:03:29 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 12:03:29 iMac-yarshure.local WindowServer[91]: Created shield window 0xe5 for display 0x003f003f
+May 11 12:03:29 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 12:03:29 iMac-yarshure.local WindowServer[91]: Created shield window 0xe6 for display 0x003f0040
+May 11 12:03:29 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 12:03:29 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "Finder" after 3.70 seconds (server forcibly re-enabled them after 1.00 seconds)
+May 11 12:15:54 iMac-yarshure.local WindowServer[91]: Created shield window 0xf3 for display 0x042801c0
+May 11 12:15:54 iMac-yarshure.local WindowServer[91]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 12:15:54 iMac-yarshure.local WindowServer[91]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 12:16:55 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "Finder" for over 1.00 seconds. Server has re-enabled them.
+May 11 12:18:35 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 12:18:35 iMac-yarshure.local WindowServer[91]: Created shield window 0xf4 for display 0x003f003d
+May 11 12:18:35 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 12:18:35 iMac-yarshure.local WindowServer[91]: Created shield window 0xf5 for display 0x003f003e
+May 11 12:18:35 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 12:18:35 iMac-yarshure.local WindowServer[91]: Created shield window 0xf6 for display 0x003f003f
+May 11 12:18:35 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 12:18:35 iMac-yarshure.local WindowServer[91]: Created shield window 0xf7 for display 0x003f0040
+May 11 12:18:35 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 12:18:35 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "Finder" after 3.64 seconds (server forcibly re-enabled them after 1.00 seconds)
+May 11 12:28:35 iMac-yarshure.local WindowServer[91]: Created shield window 0xfc for display 0x042801c0
+May 11 12:28:35 iMac-yarshure.local WindowServer[91]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 12:28:35 iMac-yarshure.local WindowServer[91]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 12:46:05 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 12:46:05 iMac-yarshure.local WindowServer[91]: Created shield window 0xfd for display 0x003f003d
+May 11 12:46:05 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 12:46:05 iMac-yarshure.local WindowServer[91]: Created shield window 0xfe for display 0x003f003e
+May 11 12:46:05 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 12:46:05 iMac-yarshure.local WindowServer[91]: Created shield window 0xff for display 0x003f003f
+May 11 12:46:05 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 12:46:05 iMac-yarshure.local WindowServer[91]: Created shield window 0x100 for display 0x003f0040
+May 11 12:46:05 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 13:12:27 iMac-yarshure.local WindowServer[91]: Created shield window 0x147 for display 0x042801c0
+May 11 13:12:27 iMac-yarshure.local WindowServer[91]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 13:12:27 iMac-yarshure.local WindowServer[91]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 13:37:09 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 13:37:09 iMac-yarshure.local WindowServer[91]: Created shield window 0x148 for display 0x003f003d
+May 11 13:37:09 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 13:37:09 iMac-yarshure.local WindowServer[91]: Created shield window 0x149 for display 0x003f003e
+May 11 13:37:09 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 13:37:09 iMac-yarshure.local WindowServer[91]: Created shield window 0x14a for display 0x003f003f
+May 11 13:37:09 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 13:37:09 iMac-yarshure.local WindowServer[91]: Created shield window 0x14b for display 0x003f0040
+May 11 13:37:09 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 13:47:22 iMac-yarshure.local WindowServer[91]: Created shield window 0x153 for display 0x042801c0
+May 11 13:47:22 iMac-yarshure.local WindowServer[91]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 13:47:22 iMac-yarshure.local WindowServer[91]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 13:48:23 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "Finder" for over 1.00 seconds. Server has re-enabled them.
+May 11 13:55:05 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 13:55:05 iMac-yarshure.local WindowServer[91]: Created shield window 0x154 for display 0x003f003d
+May 11 13:55:05 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 13:55:05 iMac-yarshure.local WindowServer[91]: Created shield window 0x155 for display 0x003f003e
+May 11 13:55:05 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 13:55:05 iMac-yarshure.local WindowServer[91]: Created shield window 0x156 for display 0x003f003f
+May 11 13:55:05 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 13:55:05 iMac-yarshure.local WindowServer[91]: Created shield window 0x157 for display 0x003f0040
+May 11 13:55:05 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 13:55:05 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "Finder" after 3.62 seconds (server forcibly re-enabled them after 1.00 seconds)
+May 11 14:10:28 iMac-yarshure.local WindowServer[91]: Created shield window 0x15e for display 0x042801c0
+May 11 14:10:28 iMac-yarshure.local WindowServer[91]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 14:10:28 iMac-yarshure.local WindowServer[91]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 14:11:12 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 11 14:11:12 iMac-yarshure.local WindowServer[91]: Created shield window 0x15f for display 0x003f003d
+May 11 14:11:12 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 11 14:11:12 iMac-yarshure.local WindowServer[91]: Created shield window 0x160 for display 0x003f003e
+May 11 14:11:12 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 11 14:11:12 iMac-yarshure.local WindowServer[91]: Created shield window 0x161 for display 0x003f003f
+May 11 14:11:12 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 11 14:11:12 iMac-yarshure.local WindowServer[91]: Created shield window 0x162 for display 0x003f0040
+May 11 14:11:12 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 11 14:21:12 iMac-yarshure.local WindowServer[91]: Created shield window 0x163 for display 0x042801c0
+May 11 14:21:12 iMac-yarshure.local WindowServer[91]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 14:21:12 iMac-yarshure.local WindowServer[91]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 14:22:13 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "Finder" for over 1.00 seconds. Server has re-enabled them.
+May 11 14:22:31 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 14:22:31 iMac-yarshure.local WindowServer[91]: Created shield window 0x164 for display 0x003f003d
+May 11 14:22:31 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 14:22:31 iMac-yarshure.local WindowServer[91]: Created shield window 0x165 for display 0x003f003e
+May 11 14:22:31 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 14:22:31 iMac-yarshure.local WindowServer[91]: Created shield window 0x166 for display 0x003f003f
+May 11 14:22:31 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 14:22:31 iMac-yarshure.local WindowServer[91]: Created shield window 0x167 for display 0x003f0040
+May 11 14:22:31 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 14:22:31 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "Finder" after 3.62 seconds (server forcibly re-enabled them after 1.00 seconds)
+May 11 14:36:00 iMac-yarshure.local WindowServer[91]: Created shield window 0x16c for display 0x042801c0
+May 11 14:36:00 iMac-yarshure.local WindowServer[91]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 14:36:00 iMac-yarshure.local WindowServer[91]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 14:37:01 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "Finder" for over 1.00 seconds. Server has re-enabled them.
+May 11 15:00:20 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 15:00:20 iMac-yarshure.local WindowServer[91]: Created shield window 0x16d for display 0x003f003d
+May 11 15:00:20 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 15:00:20 iMac-yarshure.local WindowServer[91]: Created shield window 0x16e for display 0x003f003e
+May 11 15:00:20 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 15:00:20 iMac-yarshure.local WindowServer[91]: Created shield window 0x16f for display 0x003f003f
+May 11 15:00:20 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 15:00:20 iMac-yarshure.local WindowServer[91]: Created shield window 0x170 for display 0x003f0040
+May 11 15:00:20 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 15:00:20 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "Finder" after 3.66 seconds (server forcibly re-enabled them after 1.00 seconds)
+May 11 15:10:20 iMac-yarshure.local WindowServer[91]: Created shield window 0x173 for display 0x042801c0
+May 11 15:10:20 iMac-yarshure.local WindowServer[91]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 15:10:20 iMac-yarshure.local WindowServer[91]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 15:11:21 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "Finder" for over 1.00 seconds. Server has re-enabled them.
+May 11 15:19:58 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 15:19:58 iMac-yarshure.local WindowServer[91]: Created shield window 0x174 for display 0x003f003d
+May 11 15:19:58 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 15:19:58 iMac-yarshure.local WindowServer[91]: Created shield window 0x175 for display 0x003f003e
+May 11 15:19:58 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 15:19:58 iMac-yarshure.local WindowServer[91]: Created shield window 0x176 for display 0x003f003f
+May 11 15:19:58 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 15:19:58 iMac-yarshure.local WindowServer[91]: Created shield window 0x177 for display 0x003f0040
+May 11 15:19:58 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 15:19:58 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "Finder" after 3.68 seconds (server forcibly re-enabled them after 1.00 seconds)
+May 11 15:31:34 iMac-yarshure.local WindowServer[91]: Created shield window 0x17c for display 0x042801c0
+May 11 15:31:34 iMac-yarshure.local WindowServer[91]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 15:31:34 iMac-yarshure.local WindowServer[91]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 15:32:35 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "Finder" for over 1.00 seconds. Server has re-enabled them.
+May 11 15:46:14 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 15:46:14 iMac-yarshure.local WindowServer[91]: Created shield window 0x17d for display 0x003f003d
+May 11 15:46:14 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 15:46:14 iMac-yarshure.local WindowServer[91]: Created shield window 0x17e for display 0x003f003e
+May 11 15:46:14 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 15:46:14 iMac-yarshure.local WindowServer[91]: Created shield window 0x17f for display 0x003f003f
+May 11 15:46:14 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 15:46:14 iMac-yarshure.local WindowServer[91]: Created shield window 0x180 for display 0x003f0040
+May 11 15:46:14 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 15:46:14 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "Finder" after 3.68 seconds (server forcibly re-enabled them after 1.00 seconds)
+May 11 16:01:06 iMac-yarshure.local WindowServer[91]: Created shield window 0x1a1 for display 0x042801c0
+May 11 16:01:06 iMac-yarshure.local WindowServer[91]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 16:01:06 iMac-yarshure.local WindowServer[91]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 16:02:24 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "Finder" for over 1.00 seconds. Server has re-enabled them.
+May 11 16:10:52 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 16:10:52 iMac-yarshure.local WindowServer[91]: Created shield window 0x1a2 for display 0x003f003d
+May 11 16:10:52 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 16:10:52 iMac-yarshure.local WindowServer[91]: Created shield window 0x1a3 for display 0x003f003e
+May 11 16:10:52 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 16:10:52 iMac-yarshure.local WindowServer[91]: Created shield window 0x1a4 for display 0x003f003f
+May 11 16:10:52 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 16:10:52 iMac-yarshure.local WindowServer[91]: Created shield window 0x1a5 for display 0x003f0040
+May 11 16:10:52 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 16:10:52 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "Finder" after 3.73 seconds (server forcibly re-enabled them after 1.00 seconds)
+May 11 16:45:41 iMac-yarshure.local WindowServer[91]: Created shield window 0x1c2 for display 0x042801c0
+May 11 16:45:41 iMac-yarshure.local WindowServer[91]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 16:45:41 iMac-yarshure.local WindowServer[91]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 16:48:50 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 16:48:50 iMac-yarshure.local WindowServer[91]: Created shield window 0x1c3 for display 0x003f003d
+May 11 16:48:50 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 16:48:50 iMac-yarshure.local WindowServer[91]: Created shield window 0x1c4 for display 0x003f003e
+May 11 16:48:50 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 16:48:50 iMac-yarshure.local WindowServer[91]: Created shield window 0x1c5 for display 0x003f003f
+May 11 16:48:50 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 16:48:50 iMac-yarshure.local WindowServer[91]: Created shield window 0x1c6 for display 0x003f0040
+May 11 16:48:50 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 16:58:34 iMac-yarshure.local WindowServer[91]: CGXSetTrackingAreaEnabled : Invalid tracking area 0x7fac3b20afc0
+May 11 17:16:48 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x42801c0
+May 11 17:16:48 iMac-yarshure.local WindowServer[91]: Created shield window 0x1e9 for display 0x042801c0
+May 11 17:16:48 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 17:16:48 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003d
+May 11 17:16:48 iMac-yarshure.local WindowServer[91]: Created shield window 0x1ea for display 0x04280381
+May 11 17:16:48 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 17:16:48 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003e
+May 11 17:16:48 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003f
+May 11 17:16:48 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f0040
+May 11 17:16:49 iMac-yarshure.local WindowServer[91]: MPServiceForDisplayDevice: Invalid device alias (0)
+May 11 17:16:49 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 11 17:16:49 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:16:49 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (3584, 0)[1 x 1], 1 modes available
+May 11 17:16:49 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (3585, 0)[1 x 1], 1 modes available
+May 11 17:16:49 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (3586, 0)[1 x 1], 1 modes available
+May 11 17:16:49 iMac-yarshure.local WindowServer[91]: Display 0x04280381: GL mask 0x2; bounds (2560, 0)[2880 x 1800], 81 modes available
+May 11 17:16:49 iMac-yarshure.local WindowServer[91]: Created shield window 0x1eb for display 0x042801c0
+May 11 17:16:49 iMac-yarshure.local WindowServer[91]: Created shield window 0x1ec for display 0x003f0040
+May 11 17:16:49 iMac-yarshure.local WindowServer[91]: Created shield window 0x1ed for display 0x003f003f
+May 11 17:16:49 iMac-yarshure.local WindowServer[91]: Created shield window 0x1ee for display 0x003f003e
+May 11 17:16:49 iMac-yarshure.local WindowServer[91]: Created shield window 0x1ef for display 0x04280381
+May 11 17:16:50 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "系统偏好设置" for over 1.00 seconds. Server has re-enabled them.
+May 11 17:16:50 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 17:16:51 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "Activity Monitor" for over 1.00 seconds. Server has re-enabled them.
+May 11 17:16:54 iMac-yarshure.local WindowServer[91]: post_notification : Time out waiting for reply from "系统偏好设置" for notification type 109 (CID 0xc503, PID 173)
+May 11 17:16:54 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0: Startup Mode 2560 x 1440, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 11 17:16:54 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1: Startup Mode 2880 x 1800, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 11 17:16:54 iMac-yarshure.local WindowServer[91]: Display added
+May 11 17:16:54 iMac-yarshure.local WindowServer[91]: Display removed
+May 11 17:16:54 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 11 17:16:54 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:16:54 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (6464, 0)[1 x 1], 1 modes available
+May 11 17:16:54 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (6465, 0)[1 x 1], 1 modes available
+May 11 17:16:54 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (6466, 0)[1 x 1], 1 modes available
+May 11 17:16:54 iMac-yarshure.local WindowServer[91]: Display 0x04280381: GL mask 0x2; bounds (2560, 0)[2880 x 1800], 81 modes available
+May 11 17:16:54 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:16:54 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x10acaca10  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 11 17:16:54 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x04280381 device: 0x10acac890  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 11 17:16:54 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "系统偏好设置" after 5.07 seconds (server forcibly re-enabled them after 1.00 seconds)
+May 11 17:16:54 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "Activity Monitor" after 3.96 seconds (server forcibly re-enabled them after 1.00 seconds)
+May 11 17:16:54 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:16:54 iMac-yarshure.local WindowServer[91]: Created shield window 0x1f9 for display 0x04280381
+May 11 17:16:54 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:16:54 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:16:54 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:16:56 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 17:16:56 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:16:56 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:16:56 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:16:56 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:18:08 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x42801c0
+May 11 17:18:08 iMac-yarshure.local WindowServer[91]: Created shield window 0x1fd for display 0x042801c0
+May 11 17:18:08 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 17:18:08 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x4280381
+May 11 17:18:08 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003e
+May 11 17:18:08 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003f
+May 11 17:18:08 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f0040
+May 11 17:18:09 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 78 modes available
+May 11 17:18:09 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:18:09 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (6464, 0)[1 x 1], 1 modes available
+May 11 17:18:09 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (6465, 0)[1 x 1], 1 modes available
+May 11 17:18:09 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (6466, 0)[1 x 1], 1 modes available
+May 11 17:18:09 iMac-yarshure.local WindowServer[91]: Display 0x003f003d: GL mask 0x2; bounds (2560, 0)[1 x 1], 1 modes available
+May 11 17:18:09 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:18:09 iMac-yarshure.local WindowServer[91]: Created shield window 0x1fe for display 0x042801c0
+May 11 17:18:09 iMac-yarshure.local WindowServer[91]: Created shield window 0x1ff for display 0x003f0040
+May 11 17:18:09 iMac-yarshure.local WindowServer[91]: Created shield window 0x200 for display 0x003f003f
+May 11 17:18:09 iMac-yarshure.local WindowServer[91]: Created shield window 0x201 for display 0x003f003e
+May 11 17:18:09 iMac-yarshure.local WindowServer[91]: Created shield window 0x202 for display 0x003f003d
+May 11 17:18:09 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0: Startup Mode 2560 x 1440, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 11 17:18:09 iMac-yarshure.local WindowServer[91]: Display added
+May 11 17:18:09 iMac-yarshure.local WindowServer[91]: Display removed
+May 11 17:18:09 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 78 modes available
+May 11 17:18:09 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:18:09 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (3584, 0)[1 x 1], 1 modes available
+May 11 17:18:09 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (3585, 0)[1 x 1], 1 modes available
+May 11 17:18:09 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (3586, 0)[1 x 1], 1 modes available
+May 11 17:18:09 iMac-yarshure.local WindowServer[91]: Display 0x003f003d: GL mask 0x2; bounds (3587, 0)[1 x 1], 1 modes available
+May 11 17:18:09 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x10acaca10  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 11 17:18:10 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 17:18:10 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:18:11 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 17:18:11 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x42801c0
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Created shield window 0x204 for display 0x042801c0
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003d
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Created shield window 0x205 for display 0x04280381
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003e
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003f
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f0040
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: MPServiceForDisplayDevice: Invalid device alias (0)
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (3584, 0)[1 x 1], 1 modes available
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (3585, 0)[1 x 1], 1 modes available
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (3586, 0)[1 x 1], 1 modes available
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Display 0x04280381: GL mask 0x2; bounds (2560, 0)[2880 x 1800], 81 modes available
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Created shield window 0x206 for display 0x042801c0
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Created shield window 0x207 for display 0x003f0040
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Created shield window 0x208 for display 0x003f003f
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Created shield window 0x209 for display 0x003f003e
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Created shield window 0x20a for display 0x04280381
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0: Startup Mode 2560 x 1440, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1: Startup Mode 2880 x 1800, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Display added
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Display removed
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (6464, 0)[1 x 1], 1 modes available
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (6465, 0)[1 x 1], 1 modes available
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (6466, 0)[1 x 1], 1 modes available
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: Display 0x04280381: GL mask 0x2; bounds (2560, 0)[2880 x 1800], 81 modes available
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x10acaca10  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 11 17:18:16 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x04280381 device: 0x10acac890  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 11 17:18:18 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 17:18:18 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:18:18 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:18:18 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:18:18 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:18:18 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:18:18 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:18:18 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:18:18 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:18:18 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 17:18:18 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:18:18 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:18:18 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:18:18 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:23:50 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x42801c0
+May 11 17:23:50 iMac-yarshure.local WindowServer[91]: Created shield window 0x219 for display 0x042801c0
+May 11 17:23:50 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 17:23:50 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x4280381
+May 11 17:23:50 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003e
+May 11 17:23:50 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003f
+May 11 17:23:50 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f0040
+May 11 17:23:50 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 78 modes available
+May 11 17:23:50 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:23:50 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (6464, 0)[1 x 1], 1 modes available
+May 11 17:23:50 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (6465, 0)[1 x 1], 1 modes available
+May 11 17:23:50 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (6466, 0)[1 x 1], 1 modes available
+May 11 17:23:50 iMac-yarshure.local WindowServer[91]: Display 0x003f003d: GL mask 0x2; bounds (2560, 0)[1 x 1], 1 modes available
+May 11 17:23:50 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:23:51 iMac-yarshure.local WindowServer[91]: Created shield window 0x21a for display 0x042801c0
+May 11 17:23:51 iMac-yarshure.local WindowServer[91]: Created shield window 0x21b for display 0x003f0040
+May 11 17:23:51 iMac-yarshure.local WindowServer[91]: Created shield window 0x21c for display 0x003f003f
+May 11 17:23:51 iMac-yarshure.local WindowServer[91]: Created shield window 0x21d for display 0x003f003e
+May 11 17:23:51 iMac-yarshure.local WindowServer[91]: Created shield window 0x21e for display 0x003f003d
+May 11 17:23:51 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0: Startup Mode 2560 x 1440, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 11 17:23:51 iMac-yarshure.local WindowServer[91]: Display added
+May 11 17:23:51 iMac-yarshure.local WindowServer[91]: Display removed
+May 11 17:23:51 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 78 modes available
+May 11 17:23:51 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:23:51 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (3584, 0)[1 x 1], 1 modes available
+May 11 17:23:51 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (3585, 0)[1 x 1], 1 modes available
+May 11 17:23:51 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (3586, 0)[1 x 1], 1 modes available
+May 11 17:23:51 iMac-yarshure.local WindowServer[91]: Display 0x003f003d: GL mask 0x2; bounds (3587, 0)[1 x 1], 1 modes available
+May 11 17:23:51 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x10acaca10  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 11 17:23:52 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 17:23:52 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:23:53 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 17:23:53 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:27:36 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x42801c0
+May 11 17:27:36 iMac-yarshure.local WindowServer[91]: Created shield window 0x223 for display 0x042801c0
+May 11 17:27:36 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 17:27:36 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003d
+May 11 17:27:36 iMac-yarshure.local WindowServer[91]: Created shield window 0x224 for display 0x04280381
+May 11 17:27:36 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 17:27:36 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003e
+May 11 17:27:36 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003f
+May 11 17:27:36 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f0040
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: MPServiceForDisplayDevice: Invalid device alias (0)
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (3584, 0)[1 x 1], 1 modes available
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (3585, 0)[1 x 1], 1 modes available
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (3586, 0)[1 x 1], 1 modes available
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: Display 0x04280381: GL mask 0x2; bounds (2560, 0)[2880 x 1800], 81 modes available
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: Created shield window 0x225 for display 0x042801c0
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: Created shield window 0x226 for display 0x003f0040
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: Created shield window 0x227 for display 0x003f003f
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: Created shield window 0x228 for display 0x003f003e
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: Created shield window 0x229 for display 0x04280381
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0: Startup Mode 2560 x 1440, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1: Startup Mode 2880 x 1800, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: Display added
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: Display removed
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (6464, 0)[1 x 1], 1 modes available
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (6465, 0)[1 x 1], 1 modes available
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (6466, 0)[1 x 1], 1 modes available
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: Display 0x04280381: GL mask 0x2; bounds (2560, 0)[2880 x 1800], 81 modes available
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x10acaca10  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 11 17:27:37 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x04280381 device: 0x10acac890  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 11 17:27:38 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 17:27:39 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:27:39 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:27:39 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:27:39 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:27:39 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:27:39 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:27:39 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 17:27:39 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:27:39 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:27:39 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:27:39 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:28:04 iMac-yarshure.local WindowServer[91]: MPServiceForDisplayDevice: Invalid device alias (0)
+May 11 17:28:04 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 11 17:28:04 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:28:04 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (6464, 0)[1 x 1], 1 modes available
+May 11 17:28:04 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (6465, 0)[1 x 1], 1 modes available
+May 11 17:28:04 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (6466, 0)[1 x 1], 1 modes available
+May 11 17:28:04 iMac-yarshure.local WindowServer[91]: Display 0x04280381: GL mask 0x2; bounds (2560, 0)[2880 x 1800], 81 modes available
+May 11 17:28:04 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:28:04 iMac-yarshure.local WindowServer[91]: Created shield window 0x22f for display 0x042801c0
+May 11 17:28:04 iMac-yarshure.local WindowServer[91]: Created shield window 0x230 for display 0x003f0040
+May 11 17:28:04 iMac-yarshure.local WindowServer[91]: Created shield window 0x231 for display 0x003f003f
+May 11 17:28:04 iMac-yarshure.local WindowServer[91]: Created shield window 0x232 for display 0x003f003e
+May 11 17:28:04 iMac-yarshure.local WindowServer[91]: Created shield window 0x233 for display 0x04280381
+May 11 17:28:06 iMac-yarshure.local WindowServer[91]: hw_mirror_device_if_possible: driver picks 0x4280381 as primary
+May 11 17:28:06 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x04280381 device: 0x10acac890  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 11 17:28:06 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0: Startup Mode 2560 x 1440, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 11 17:28:06 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1: Startup Mode 2880 x 1800, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 11 17:28:06 iMac-yarshure.local WindowServer[91]: Displays mirrored
+May 11 17:28:06 iMac-yarshure.local WindowServer[91]: Display 0x04280381: GL mask 0x2; bounds (0, 0)[2560 x 1440], 81 modes available
+May 11 17:28:06 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:28:06 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 11 17:28:06 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (3584, 0)[1 x 1], 1 modes available
+May 11 17:28:06 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (3585, 0)[1 x 1], 1 modes available
+May 11 17:28:06 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (3586, 0)[1 x 1], 1 modes available
+May 11 17:28:06 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 17:28:06 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "通知中心" after 15767.42 seconds (server forcibly re-enabled them after 1.00 seconds)
+May 11 17:28:07 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:28:07 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:28:07 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:28:07 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:28:07 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:28:07 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:28:07 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:28:07 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:30:09 iMac-yarshure.local WindowServer[91]: MPServiceForDisplayDevice: Invalid device alias (0)
+May 11 17:30:09 iMac-yarshure.local WindowServer[91]: Display 0x04280381: GL mask 0x2; bounds (0, 0)[2560 x 1440], 81 modes available
+May 11 17:30:09 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:30:09 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 11 17:30:09 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (3584, 0)[1 x 1], 1 modes available
+May 11 17:30:09 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (3585, 0)[1 x 1], 1 modes available
+May 11 17:30:09 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (3586, 0)[1 x 1], 1 modes available
+May 11 17:30:09 iMac-yarshure.local WindowServer[91]: Created shield window 0x238 for display 0x04280381
+May 11 17:30:09 iMac-yarshure.local WindowServer[91]: Created shield window 0x239 for display 0x042801c0
+May 11 17:30:09 iMac-yarshure.local WindowServer[91]: Created shield window 0x23a for display 0x003f0040
+May 11 17:30:09 iMac-yarshure.local WindowServer[91]: Created shield window 0x23b for display 0x003f003f
+May 11 17:30:09 iMac-yarshure.local WindowServer[91]: Created shield window 0x23c for display 0x003f003e
+May 11 17:30:11 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1: Startup Mode 2880 x 1800, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 11 17:30:11 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0: Startup Mode 2560 x 1440, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 11 17:30:11 iMac-yarshure.local WindowServer[91]: Displays mirrored
+May 11 17:30:11 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x10acaca10  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 11 17:30:11 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x04280381 device: 0x10acac890  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 11 17:30:11 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 11 17:30:11 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:30:11 iMac-yarshure.local WindowServer[91]: Display 0x04280381: GL mask 0x2; bounds (2560, 0)[2880 x 1800], 81 modes available
+May 11 17:30:11 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:30:11 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (6464, 0)[1 x 1], 1 modes available
+May 11 17:30:11 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (6465, 0)[1 x 1], 1 modes available
+May 11 17:30:11 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (6466, 0)[1 x 1], 1 modes available
+May 11 17:30:13 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 17:30:13 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:30:13 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:30:13 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:30:13 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:31:47 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x42801c0
+May 11 17:31:47 iMac-yarshure.local WindowServer[91]: Created shield window 0x23f for display 0x042801c0
+May 11 17:31:47 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 17:31:47 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x4280381
+May 11 17:31:47 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003e
+May 11 17:31:47 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003f
+May 11 17:31:47 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f0040
+May 11 17:31:48 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 78 modes available
+May 11 17:31:48 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:31:48 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (6464, 0)[1 x 1], 1 modes available
+May 11 17:31:48 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (6465, 0)[1 x 1], 1 modes available
+May 11 17:31:48 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (6466, 0)[1 x 1], 1 modes available
+May 11 17:31:48 iMac-yarshure.local WindowServer[91]: Display 0x003f003d: GL mask 0x2; bounds (2560, 0)[1 x 1], 1 modes available
+May 11 17:31:48 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:31:48 iMac-yarshure.local WindowServer[91]: Created shield window 0x240 for display 0x042801c0
+May 11 17:31:48 iMac-yarshure.local WindowServer[91]: Created shield window 0x241 for display 0x003f0040
+May 11 17:31:48 iMac-yarshure.local WindowServer[91]: Created shield window 0x242 for display 0x003f003f
+May 11 17:31:48 iMac-yarshure.local WindowServer[91]: Created shield window 0x243 for display 0x003f003e
+May 11 17:31:48 iMac-yarshure.local WindowServer[91]: Created shield window 0x244 for display 0x003f003d
+May 11 17:31:48 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0: Startup Mode 2560 x 1440, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 11 17:31:48 iMac-yarshure.local WindowServer[91]: Display added
+May 11 17:31:48 iMac-yarshure.local WindowServer[91]: Display removed
+May 11 17:31:48 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 78 modes available
+May 11 17:31:48 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 17:31:48 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (3584, 0)[1 x 1], 1 modes available
+May 11 17:31:48 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (3585, 0)[1 x 1], 1 modes available
+May 11 17:31:48 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (3586, 0)[1 x 1], 1 modes available
+May 11 17:31:48 iMac-yarshure.local WindowServer[91]: Display 0x003f003d: GL mask 0x2; bounds (3587, 0)[1 x 1], 1 modes available
+May 11 17:31:48 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x10acaca10  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 11 17:31:49 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 17:31:49 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:31:50 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 17:31:50 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 17:41:07 iMac-yarshure.local WindowServer[91]: Created shield window 0x246 for display 0x042801c0
+May 11 17:41:07 iMac-yarshure.local WindowServer[91]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 17:41:07 iMac-yarshure.local WindowServer[91]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 18:11:27 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 18:11:27 iMac-yarshure.local WindowServer[91]: Created shield window 0x247 for display 0x003f003d
+May 11 18:11:27 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 18:11:27 iMac-yarshure.local WindowServer[91]: Created shield window 0x248 for display 0x003f003e
+May 11 18:11:27 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 18:11:27 iMac-yarshure.local WindowServer[91]: Created shield window 0x249 for display 0x003f003f
+May 11 18:11:27 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 18:11:27 iMac-yarshure.local WindowServer[91]: Created shield window 0x24a for display 0x003f0040
+May 11 18:11:27 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 18:11:29 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x42801c0
+May 11 18:11:29 iMac-yarshure.local WindowServer[91]: Created shield window 0x24b for display 0x042801c0
+May 11 18:11:29 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 18:11:29 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003d
+May 11 18:11:29 iMac-yarshure.local WindowServer[91]: Created shield window 0x24c for display 0x04280381
+May 11 18:11:29 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 18:11:29 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003e
+May 11 18:11:29 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003f
+May 11 18:11:29 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f0040
+May 11 18:11:29 iMac-yarshure.local WindowServer[91]: MPServiceForDisplayDevice: Invalid device alias (0)
+May 11 18:11:29 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 11 18:11:29 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 18:11:29 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (3584, 0)[1 x 1], 1 modes available
+May 11 18:11:29 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (3585, 0)[1 x 1], 1 modes available
+May 11 18:11:29 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (3586, 0)[1 x 1], 1 modes available
+May 11 18:11:29 iMac-yarshure.local WindowServer[91]: Display 0x04280381: GL mask 0x2; bounds (2560, 0)[2880 x 1800], 81 modes available
+May 11 18:11:30 iMac-yarshure.local WindowServer[91]: Created shield window 0x24d for display 0x042801c0
+May 11 18:11:30 iMac-yarshure.local WindowServer[91]: Created shield window 0x24e for display 0x003f0040
+May 11 18:11:30 iMac-yarshure.local WindowServer[91]: Created shield window 0x24f for display 0x003f003f
+May 11 18:11:30 iMac-yarshure.local WindowServer[91]: Created shield window 0x250 for display 0x003f003e
+May 11 18:11:30 iMac-yarshure.local WindowServer[91]: Created shield window 0x251 for display 0x04280381
+May 11 18:11:30 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0: Startup Mode 2560 x 1440, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 11 18:11:30 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1: Startup Mode 2880 x 1800, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 11 18:11:30 iMac-yarshure.local WindowServer[91]: Display added
+May 11 18:11:30 iMac-yarshure.local WindowServer[91]: Display removed
+May 11 18:11:30 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 11 18:11:30 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 18:11:30 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (6464, 0)[1 x 1], 1 modes available
+May 11 18:11:30 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (6465, 0)[1 x 1], 1 modes available
+May 11 18:11:30 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (6466, 0)[1 x 1], 1 modes available
+May 11 18:11:30 iMac-yarshure.local WindowServer[91]: Display 0x04280381: GL mask 0x2; bounds (2560, 0)[2880 x 1800], 81 modes available
+May 11 18:11:30 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 18:11:30 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x10acaca10  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 11 18:11:30 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x04280381 device: 0x10acac890  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 11 18:11:31 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 18:11:31 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:11:31 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:11:31 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:11:31 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:11:31 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:11:31 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:11:31 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:11:31 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:11:32 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 18:11:32 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:11:32 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:11:32 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:11:32 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:13:02 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x42801c0
+May 11 18:13:02 iMac-yarshure.local WindowServer[91]: Created shield window 0x257 for display 0x042801c0
+May 11 18:13:02 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 18:13:02 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x4280381
+May 11 18:13:02 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003e
+May 11 18:13:02 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003f
+May 11 18:13:02 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f0040
+May 11 18:13:02 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 78 modes available
+May 11 18:13:02 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 18:13:02 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (6464, 0)[1 x 1], 1 modes available
+May 11 18:13:02 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (6465, 0)[1 x 1], 1 modes available
+May 11 18:13:02 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (6466, 0)[1 x 1], 1 modes available
+May 11 18:13:02 iMac-yarshure.local WindowServer[91]: Display 0x003f003d: GL mask 0x2; bounds (2560, 0)[1 x 1], 1 modes available
+May 11 18:13:02 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 18:13:03 iMac-yarshure.local WindowServer[91]: Created shield window 0x258 for display 0x042801c0
+May 11 18:13:03 iMac-yarshure.local WindowServer[91]: Created shield window 0x259 for display 0x003f0040
+May 11 18:13:03 iMac-yarshure.local WindowServer[91]: Created shield window 0x25a for display 0x003f003f
+May 11 18:13:03 iMac-yarshure.local WindowServer[91]: Created shield window 0x25b for display 0x003f003e
+May 11 18:13:03 iMac-yarshure.local WindowServer[91]: Created shield window 0x25c for display 0x003f003d
+May 11 18:13:04 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "Activity Monitor" for over 1.00 seconds. Server has re-enabled them.
+May 11 18:13:04 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 18:13:08 iMac-yarshure.local WindowServer[91]: post_notification : Time out waiting for reply from "Activity Monitor" for notification type 109 (CID 0x12003, PID 180)
+May 11 18:13:08 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0: Startup Mode 2560 x 1440, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 11 18:13:08 iMac-yarshure.local WindowServer[91]: Display added
+May 11 18:13:08 iMac-yarshure.local WindowServer[91]: Display removed
+May 11 18:13:08 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 78 modes available
+May 11 18:13:08 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 18:13:08 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (3584, 0)[1 x 1], 1 modes available
+May 11 18:13:08 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (3585, 0)[1 x 1], 1 modes available
+May 11 18:13:08 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (3586, 0)[1 x 1], 1 modes available
+May 11 18:13:08 iMac-yarshure.local WindowServer[91]: Display 0x003f003d: GL mask 0x2; bounds (3587, 0)[1 x 1], 1 modes available
+May 11 18:13:08 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "Activity Monitor" after 5.01 seconds (server forcibly re-enabled them after 1.00 seconds)
+May 11 18:13:08 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x10acaca10  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 11 18:13:08 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:13:10 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 18:13:10 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:22:12 iMac-yarshure.local WindowServer[91]: Created shield window 0x25e for display 0x042801c0
+May 11 18:22:12 iMac-yarshure.local WindowServer[91]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 18:22:12 iMac-yarshure.local WindowServer[91]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 18:50:14 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 18:50:14 iMac-yarshure.local WindowServer[91]: Created shield window 0x25f for display 0x003f003d
+May 11 18:50:14 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 18:50:14 iMac-yarshure.local WindowServer[91]: Created shield window 0x260 for display 0x003f003e
+May 11 18:50:14 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 18:50:14 iMac-yarshure.local WindowServer[91]: Created shield window 0x261 for display 0x003f003f
+May 11 18:50:14 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 18:50:14 iMac-yarshure.local WindowServer[91]: Created shield window 0x262 for display 0x003f0040
+May 11 18:50:14 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 18:50:36 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x42801c0
+May 11 18:50:36 iMac-yarshure.local WindowServer[91]: Created shield window 0x263 for display 0x042801c0
+May 11 18:50:36 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003d
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Created shield window 0x264 for display 0x04280381
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003e
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003f
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f0040
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: MPServiceForDisplayDevice: Invalid device alias (0)
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (3584, 0)[1 x 1], 1 modes available
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (3585, 0)[1 x 1], 1 modes available
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (3586, 0)[1 x 1], 1 modes available
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Display 0x04280381: GL mask 0x2; bounds (2560, 0)[2880 x 1800], 81 modes available
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Created shield window 0x265 for display 0x042801c0
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Created shield window 0x266 for display 0x003f0040
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Created shield window 0x267 for display 0x003f003f
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Created shield window 0x268 for display 0x003f003e
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Created shield window 0x269 for display 0x04280381
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0: Startup Mode 2560 x 1440, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1: Startup Mode 2880 x 1800, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Display added
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Display removed
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (6464, 0)[1 x 1], 1 modes available
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (6465, 0)[1 x 1], 1 modes available
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (6466, 0)[1 x 1], 1 modes available
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: Display 0x04280381: GL mask 0x2; bounds (2560, 0)[2880 x 1800], 81 modes available
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x10acaca10  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 11 18:50:37 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x04280381 device: 0x10acac890  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 11 18:50:39 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 18:50:39 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:50:39 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:50:39 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:50:39 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:50:39 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:50:39 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:50:39 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 18:50:39 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:50:39 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:50:39 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:50:39 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:56:59 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x42801c0
+May 11 18:56:59 iMac-yarshure.local WindowServer[91]: Created shield window 0x26f for display 0x042801c0
+May 11 18:56:59 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 11 18:56:59 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x4280381
+May 11 18:56:59 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003e
+May 11 18:56:59 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003f
+May 11 18:56:59 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f0040
+May 11 18:56:59 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 78 modes available
+May 11 18:56:59 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 18:56:59 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (6464, 0)[1 x 1], 1 modes available
+May 11 18:56:59 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (6465, 0)[1 x 1], 1 modes available
+May 11 18:56:59 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (6466, 0)[1 x 1], 1 modes available
+May 11 18:56:59 iMac-yarshure.local WindowServer[91]: Display 0x003f003d: GL mask 0x2; bounds (2560, 0)[1 x 1], 1 modes available
+May 11 18:56:59 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 18:57:00 iMac-yarshure.local WindowServer[91]: Created shield window 0x270 for display 0x042801c0
+May 11 18:57:00 iMac-yarshure.local WindowServer[91]: Created shield window 0x271 for display 0x003f0040
+May 11 18:57:00 iMac-yarshure.local WindowServer[91]: Created shield window 0x272 for display 0x003f003f
+May 11 18:57:00 iMac-yarshure.local WindowServer[91]: Created shield window 0x273 for display 0x003f003e
+May 11 18:57:00 iMac-yarshure.local WindowServer[91]: Created shield window 0x274 for display 0x003f003d
+May 11 18:57:00 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0: Startup Mode 2560 x 1440, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 11 18:57:00 iMac-yarshure.local WindowServer[91]: Display added
+May 11 18:57:00 iMac-yarshure.local WindowServer[91]: Display removed
+May 11 18:57:00 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 78 modes available
+May 11 18:57:00 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 18:57:00 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (3584, 0)[1 x 1], 1 modes available
+May 11 18:57:00 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (3585, 0)[1 x 1], 1 modes available
+May 11 18:57:00 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (3586, 0)[1 x 1], 1 modes available
+May 11 18:57:00 iMac-yarshure.local WindowServer[91]: Display 0x003f003d: GL mask 0x2; bounds (3587, 0)[1 x 1], 1 modes available
+May 11 18:57:00 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x10acaca10  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 11 18:57:01 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 18:57:01 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 18:57:02 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 18:57:02 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 19:12:16 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 78 modes available
+May 11 19:12:16 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 19:12:16 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (3584, 0)[1 x 1], 1 modes available
+May 11 19:12:16 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (3585, 0)[1 x 1], 1 modes available
+May 11 19:12:16 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (3586, 0)[1 x 1], 1 modes available
+May 11 19:12:16 iMac-yarshure.local WindowServer[91]: Display 0x003f003d: GL mask 0x2; bounds (3587, 0)[1 x 1], 1 modes available
+May 11 19:12:16 iMac-yarshure.local WindowServer[91]: Created shield window 0x298 for display 0x042801c0
+May 11 19:12:16 iMac-yarshure.local WindowServer[91]: Created shield window 0x299 for display 0x003f0040
+May 11 19:12:16 iMac-yarshure.local WindowServer[91]: Created shield window 0x29a for display 0x003f003f
+May 11 19:12:16 iMac-yarshure.local WindowServer[91]: Created shield window 0x29b for display 0x003f003e
+May 11 19:12:16 iMac-yarshure.local WindowServer[91]: Created shield window 0x29c for display 0x003f003d
+May 11 19:12:16 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0: Startup Mode 1280 x 720, CGSThirtytwoBitColor, Resolution 2, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 11 19:12:16 iMac-yarshure.local WindowServer[91]: Display mode changed
+May 11 19:12:16 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x10acaca10  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 11 19:12:17 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[1280 x 720], 78 modes available
+May 11 19:12:17 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 11 19:12:17 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (2304, 0)[1 x 1], 1 modes available
+May 11 19:12:17 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (2305, 0)[1 x 1], 1 modes available
+May 11 19:12:17 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (2306, 0)[1 x 1], 1 modes available
+May 11 19:12:17 iMac-yarshure.local WindowServer[91]: Display 0x003f003d: GL mask 0x2; bounds (2307, 0)[1 x 1], 1 modes available
+May 11 19:12:18 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "通知中心" for over 1.00 seconds. Server has re-enabled them.
+May 11 19:12:18 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 11 19:12:18 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 11 19:12:32 iMac-yarshure.local WindowServer[91]: disable_update_likely_unbalanced: UI updates still disabled by application "通知中心" after 15.00 seconds (server forcibly re-enabled them after 1.00 seconds). Likely an unbalanced disableUpdate call.
+May 11 19:16:16 iMac-yarshure.local WindowServer[91]: Created shield window 0x2bb for display 0x042801c0
+May 11 19:16:16 iMac-yarshure.local WindowServer[91]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 11 19:16:16 iMac-yarshure.local WindowServer[91]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 12 05:18:00 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "系统偏好设置" for over 1.00 seconds. Server has re-enabled them.
+May 12 05:18:00 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "系统偏好设置" after 7.82 seconds (server forcibly re-enabled them after 7.82 seconds)
+May 12 09:18:48 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "Console" for over 1.00 seconds. Server has re-enabled them.
+May 12 09:18:48 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "Console" after 11.01 seconds (server forcibly re-enabled them after 11.00 seconds)
+May 12 23:21:28 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "Console" for over 1.00 seconds. Server has re-enabled them.
+May 12 23:21:28 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "Console" after 10.04 seconds (server forcibly re-enabled them after 10.02 seconds)
+May 13 03:22:14 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "Console" for over 1.00 seconds. Server has re-enabled them.
+May 13 03:22:14 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "Console" after 7.09 seconds (server forcibly re-enabled them after 7.07 seconds)
+May 13 05:22:37 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "Console" for over 1.00 seconds. Server has re-enabled them.
+May 13 05:22:37 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "Console" after 7.02 seconds (server forcibly re-enabled them after 7.01 seconds)
+May 13 09:04:39 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "Console" for over 1.00 seconds. Server has re-enabled them.
+May 13 09:04:39 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 13 09:04:39 iMac-yarshure.local WindowServer[91]: Created shield window 0x2bc for display 0x003f003d
+May 13 09:04:39 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 13 09:04:39 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "Console" after 2.61 seconds (server forcibly re-enabled them after 2.60 seconds)
+May 13 09:04:39 iMac-yarshure.local WindowServer[91]: Created shield window 0x2bd for display 0x003f003e
+May 13 09:04:39 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 13 09:04:39 iMac-yarshure.local WindowServer[91]: Created shield window 0x2be for display 0x003f003f
+May 13 09:04:39 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 13 09:04:39 iMac-yarshure.local WindowServer[91]: Created shield window 0x2bf for display 0x003f0040
+May 13 09:04:39 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 13 09:05:06 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "通知中心" after 758.77 seconds (server forcibly re-enabled them after 1.00 seconds)
+May 13 09:15:11 iMac-yarshure.local WindowServer[91]: Created shield window 0x2c2 for display 0x042801c0
+May 13 09:15:11 iMac-yarshure.local WindowServer[91]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 13 09:15:11 iMac-yarshure.local WindowServer[91]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 13 10:08:03 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 13 10:08:03 iMac-yarshure.local WindowServer[91]: Created shield window 0x2c3 for display 0x003f003d
+May 13 10:08:03 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 13 10:08:03 iMac-yarshure.local WindowServer[91]: Created shield window 0x2c4 for display 0x003f003e
+May 13 10:08:03 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 13 10:08:03 iMac-yarshure.local WindowServer[91]: Created shield window 0x2c5 for display 0x003f003f
+May 13 10:08:03 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 13 10:08:03 iMac-yarshure.local WindowServer[91]: Created shield window 0x2c6 for display 0x003f0040
+May 13 10:08:03 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 13 10:18:27 iMac-yarshure.local WindowServer[91]: Created shield window 0x2d3 for display 0x042801c0
+May 13 10:18:27 iMac-yarshure.local WindowServer[91]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 13 10:18:27 iMac-yarshure.local WindowServer[91]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 13 10:48:06 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 13 10:48:06 iMac-yarshure.local WindowServer[91]: Created shield window 0x2d4 for display 0x003f003d
+May 13 10:48:06 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 13 10:48:06 iMac-yarshure.local WindowServer[91]: Created shield window 0x2d5 for display 0x003f003e
+May 13 10:48:06 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 13 10:48:06 iMac-yarshure.local WindowServer[91]: Created shield window 0x2d6 for display 0x003f003f
+May 13 10:48:06 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 13 10:48:06 iMac-yarshure.local WindowServer[91]: Created shield window 0x2d7 for display 0x003f0040
+May 13 10:48:06 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x42801c0
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Created shield window 0x2d9 for display 0x042801c0
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003d
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Created shield window 0x2da for display 0x04280381
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003e
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f003f
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Received display connect changed for display 0x3f0040
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: MPServiceForDisplayDevice: Invalid device alias (0)
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (2304, 0)[1 x 1], 1 modes available
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (2305, 0)[1 x 1], 1 modes available
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (2306, 0)[1 x 1], 1 modes available
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Display 0x04280381: GL mask 0x2; bounds (2560, 0)[2880 x 1800], 81 modes available
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Created shield window 0x2db for display 0x042801c0
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Created shield window 0x2dc for display 0x003f0040
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Created shield window 0x2dd for display 0x003f003f
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Created shield window 0x2de for display 0x003f003e
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Created shield window 0x2df for display 0x04280381
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0: Startup Mode 2560 x 1440, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1: Startup Mode 2880 x 1800, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Display added
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Display removed
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Display 0x003f0040: GL mask 0x10; bounds (6464, 0)[1 x 1], 1 modes available
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Display 0x003f003f: GL mask 0x8; bounds (6465, 0)[1 x 1], 1 modes available
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Display 0x003f003e: GL mask 0x4; bounds (6466, 0)[1 x 1], 1 modes available
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: Display 0x04280381: GL mask 0x2; bounds (2560, 0)[2880 x 1800], 81 modes available
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x0000481b, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x10acaca10  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 13 10:54:51 iMac-yarshure.local WindowServer[91]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x04280381 device: 0x10acac890  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 13 10:54:53 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 13 10:54:53 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 10:54:53 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 10:54:53 iMac-yarshure.local WindowServer[91]: CGXDisableUpdate: UI updates were forcibly disabled by application "通知中心" for over 1.00 seconds. Server has re-enabled them.
+May 13 10:54:53 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 10:54:53 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 10:54:53 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 10:54:53 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 10:54:53 iMac-yarshure.local WindowServer[91]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 13 10:54:53 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 10:54:53 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 10:54:53 iMac-yarshure.local WindowServer[91]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 4, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 10:54:53 iMac-yarshure.local WindowServer[91]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 5, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 10:55:07 iMac-yarshure.local WindowServer[91]: disable_update_likely_unbalanced: UI updates still disabled by application "通知中心" after 15.00 seconds (server forcibly re-enabled them after 1.00 seconds). Likely an unbalanced disableUpdate call.
+May 13 11:08:35 iMac-yarshure.local WindowServer[91]: CGXSetWindowBackgroundBlurRadius: Invalid window 0xffffffff
+May 13 11:11:41 iMac-yarshure.local WindowServer[91]: reenable_update_for_connection: UI updates were finally reenabled by application "通知中心" after 1009.03 seconds (server forcibly re-enabled them after 1.00 seconds)
+May 13 11:15:13 iMac-yarshure.local WindowServer[91]: CGXDeferSurfaces : Invalid source window 750
+May 13 11:15:13 iMac-yarshure.local WindowServer[91]: CGXDeferSurfaces : Invalid source window 749
+May 13 11:15:13 iMac-yarshure.local WindowServer[91]: CGXDeferSurfaces : Invalid source window 138
+May 13 11:15:14 iMac-yarshure.local WindowServer[91]: CGXDeferSurfaces : Invalid source window 736
+May 13 11:15:14 iMac-yarshure.local WindowServer[91]: CGXDeferSurfaces : Invalid source window 661
+May 13 11:15:14 iMac-yarshure.local WindowServer[91]: dict count after removing entry for window 0x2c is 0
+May 13 11:15:14 iMac-yarshure.local WindowServer[91]: CGXGetConnectionProperty: Invalid connection 40195
+May 13 11:15:14 iMac-yarshure.local WindowServer[91]: CGXGetConnectionProperty: Invalid connection 40195
+May 13 11:15:15 iMac-yarshure.local WindowServer[91]: CGXGetConnectionProperty: Invalid connection 40195
+May 13 11:15:15 iMac-yarshure.local WindowServer[91]: CGXRestartSessionWorkspace: session workspace exited for session 256 (on console)
+May 13 11:15:15 iMac-yarshure.local WindowServer[91]: Session 256 released (1 references)
+May 13 11:15:15 iMac-yarshure.local WindowServer[91]: Session 256 released (0 references)
+May 13 11:15:15 iMac-yarshure.local WindowServer[91]: loginwindow connection closed; closing server.
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: Server is starting up
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: Session 256 retained (2 references)
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: Session 256 released (1 references)
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: Session 256 retained (2 references)
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: init_page_flip: page flip mode is on
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: init_resolution: resolution is enabled
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: mux_initialize: Couldn't find any matches
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: GLCompositor enabled for tile size [256 x 256]
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: CGXGLInitMipMap: mip map mode is on
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: WSMachineUsesNewStyleMirroring: false
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: MPServiceForDisplayDevice: Invalid device alias (0)
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: Display 0x003f0040: GL mask 0x10; bounds (0, 0)[0 x 0], 1 modes available
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: Display 0x003f003f: GL mask 0x8; bounds (0, 0)[0 x 0], 1 modes available
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: Display 0x003f003e: GL mask 0x4; bounds (0, 0)[0 x 0], 1 modes available
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: Display 0x04280381: GL mask 0x2; bounds (2560, 0)[2880 x 1800], 81 modes available
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: Created shield window 0x5 for display 0x042801c0
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: Created shield window 0x6 for display 0x003f0040
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: Created shield window 0x7 for display 0x003f003f
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: Created shield window 0x8 for display 0x003f003e
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: Created shield window 0x9 for display 0x04280381
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: Display 0x003f0040: GL mask 0x10; bounds (6464, 0)[1 x 1], 1 modes available
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: Display 0x003f003f: GL mask 0x8; bounds (6465, 0)[1 x 1], 1 modes available
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: Display 0x003f003e: GL mask 0x4; bounds (6466, 0)[1 x 1], 1 modes available
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: Display 0x04280381: GL mask 0x2; bounds (2560, 0)[2880 x 1800], 81 modes available
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: CGXPerformInitialDisplayConfiguration
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]:   Display 0x042801c0: MappedDisplay Unit 0; Vendor 0x610 Model 0xa007 S/N 0 Dimensions 23.50 x 13.23; online enabled built-in, Bounds (0,0)[2560 x 1440], Rotation 0, Resolution 1
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]:   Display 0x003f0040: MappedDisplay Unit 4; Vendor 0xffffffff Model 0xffffffff S/N -1 Dimensions 0.00 x 0.00; offline enabled, Bounds (6464,0)[1 x 1], Rotation 0, Resolution 1
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]:   Display 0x003f003f: MappedDisplay Unit 3; Vendor 0xffffffff Model 0xffffffff S/N -1 Dimensions 0.00 x 0.00; offline enabled, Bounds (6465,0)[1 x 1], Rotation 0, Resolution 1
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]:   Display 0x003f003e: MappedDisplay Unit 2; Vendor 0xffffffff Model 0xffffffff S/N -1 Dimensions 0.00 x 0.00; offline enabled, Bounds (6466,0)[1 x 1], Rotation 0, Resolution 1
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]:   Display 0x04280381: MappedDisplay Unit 1; Vendor 0x610 Model 0xa00e S/N 0 Dimensions 13.03 x 8.15; online enabled, Bounds (2560,0)[2880 x 1800], Rotation 0, Resolution 1
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x00004613, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, texture units 8, texture max 16384, viewport max {16384, 16384}, extensions FPRG|NPOT|GLSL|FLOAT
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: Created shield window 0xa for display 0x042801c0
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 2, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: Created shield window 0xb for display 0x04280381
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 3, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x10e648b90  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 13 11:15:15 iMac-yarshure.local WindowServer[1695]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x04280381 device: 0x10e648a10  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 13 11:15:17 iMac-yarshure.local WindowServer[1695]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 13 11:15:17 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 2, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 11:15:17 iMac-yarshure.local WindowServer[1695]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 3, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 11:15:17 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 2, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 11:15:17 iMac-yarshure.local WindowServer[1695]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 3, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 11:15:21 iMac-yarshure.local WindowServer[1695]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 13 11:15:21 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 2, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 11:15:21 iMac-yarshure.local WindowServer[1695]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 3, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 11:15:21 iMac-yarshure.local WindowServer[1695]: kCGErrorNotImplemented: receive_notification: CPXSetEventFilter failed
+May 13 11:15:23 iMac-yarshure.local WindowServer[1695]: kCGErrorNotImplemented: receive_notification: CPXSetEventFilter failed
+May 13 11:15:29 iMac-yarshure.local WindowServer[1695]: kCGErrorNotImplemented: receive_notification: CPXSetEventFilter failed
+May 13 11:15:29 iMac-yarshure.local WindowServer[1695]: kCGErrorNotImplemented: receive_notification: CPXSetEventFilter failed
+May 13 11:15:30 iMac-yarshure.local WindowServer[1695]: kCGErrorNotImplemented: receive_notification: CPXSetEventFilter failed
+May 13 11:16:07 iMac-yarshure.local WindowServer[1695]: CGXSetWindowBackgroundBlurRadius: Invalid window 0xffffffff
+May 13 11:17:36 iMac-yarshure.local WindowServer[1695]: Received display connect changed for display 0x42801c0
+May 13 11:17:36 iMac-yarshure.local WindowServer[1695]: Created shield window 0x93 for display 0x042801c0
+May 13 11:17:36 iMac-yarshure.local WindowServer[1695]: handle_will_sleep_auth_and_shield_windows: no action for lock state 1
+May 13 11:17:36 iMac-yarshure.local WindowServer[1695]: Received display connect changed for display 0x4280381
+May 13 11:17:36 iMac-yarshure.local WindowServer[1695]: Received display connect changed for display 0x3f003e
+May 13 11:17:36 iMac-yarshure.local WindowServer[1695]: Received display connect changed for display 0x3f003f
+May 13 11:17:36 iMac-yarshure.local WindowServer[1695]: Received display connect changed for display 0x3f0040
+May 13 11:17:37 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 78 modes available
+May 13 11:17:37 iMac-yarshure.local WindowServer[1695]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x00004613, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 13 11:17:37 iMac-yarshure.local WindowServer[1695]: Display 0x003f0040: GL mask 0x10; bounds (6464, 0)[1 x 1], 1 modes available
+May 13 11:17:37 iMac-yarshure.local WindowServer[1695]: Display 0x003f003f: GL mask 0x8; bounds (6465, 0)[1 x 1], 1 modes available
+May 13 11:17:37 iMac-yarshure.local WindowServer[1695]: Display 0x003f003e: GL mask 0x4; bounds (6466, 0)[1 x 1], 1 modes available
+May 13 11:17:37 iMac-yarshure.local WindowServer[1695]: Display 0x003f003d: GL mask 0x2; bounds (2560, 0)[1 x 1], 1 modes available
+May 13 11:17:37 iMac-yarshure.local WindowServer[1695]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x00004613, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 13 11:17:37 iMac-yarshure.local WindowServer[1695]: Created shield window 0x94 for display 0x042801c0
+May 13 11:17:37 iMac-yarshure.local WindowServer[1695]: Created shield window 0x95 for display 0x003f0040
+May 13 11:17:37 iMac-yarshure.local WindowServer[1695]: Created shield window 0x96 for display 0x003f003f
+May 13 11:17:37 iMac-yarshure.local WindowServer[1695]: Created shield window 0x97 for display 0x003f003e
+May 13 11:17:37 iMac-yarshure.local WindowServer[1695]: Created shield window 0x98 for display 0x003f003d
+May 13 11:17:37 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: MappedDisplay Unit 0: Startup Mode 1280 x 720, CGSThirtytwoBitColor, Resolution 2, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 13 11:17:37 iMac-yarshure.local WindowServer[1695]: Display mode changed
+May 13 11:17:37 iMac-yarshure.local WindowServer[1695]: Display added
+May 13 11:17:37 iMac-yarshure.local WindowServer[1695]: Display removed
+May 13 11:17:37 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[1280 x 720], 78 modes available
+May 13 11:17:37 iMac-yarshure.local WindowServer[1695]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x00004613, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 13 11:17:37 iMac-yarshure.local WindowServer[1695]: Display 0x003f0040: GL mask 0x10; bounds (2304, 0)[1 x 1], 1 modes available
+May 13 11:17:37 iMac-yarshure.local WindowServer[1695]: Display 0x003f003f: GL mask 0x8; bounds (2305, 0)[1 x 1], 1 modes available
+May 13 11:17:37 iMac-yarshure.local WindowServer[1695]: Display 0x003f003e: GL mask 0x4; bounds (2306, 0)[1 x 1], 1 modes available
+May 13 11:17:37 iMac-yarshure.local WindowServer[1695]: Display 0x003f003d: GL mask 0x2; bounds (2307, 0)[1 x 1], 1 modes available
+May 13 11:17:37 iMac-yarshure.local WindowServer[1695]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x10e648b90  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 13 11:17:38 iMac-yarshure.local WindowServer[1695]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 13 11:17:38 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 2, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 11:17:39 iMac-yarshure.local WindowServer[1695]: CGXDisableUpdate: UI updates were forcibly disabled by application "Notification Center" for over 1.00 seconds. Server has re-enabled them.
+May 13 11:17:39 iMac-yarshure.local WindowServer[1695]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 13 11:17:39 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 2, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 11:17:53 iMac-yarshure.local WindowServer[1695]: disable_update_likely_unbalanced: UI updates still disabled by application "Notification Center" after 15.00 seconds (server forcibly re-enabled them after 1.00 seconds). Likely an unbalanced disableUpdate call.
+May 13 11:49:32 iMac-yarshure.local WindowServer[1695]: Created shield window 0xd3 for display 0x042801c0
+May 13 11:49:32 iMac-yarshure.local WindowServer[1695]: device_generate_desktop_screenshot: authw 0x0(0), shield 0x0(0)
+May 13 11:49:32 iMac-yarshure.local WindowServer[1695]: device_generate_lock_screen_screenshot: authw 0x0(0), shield 0x0(0)
+May 13 11:52:22 iMac-yarshure.local WindowServer[1695]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 13 11:52:22 iMac-yarshure.local WindowServer[1695]: Created shield window 0xd4 for display 0x003f003d
+May 13 11:52:22 iMac-yarshure.local WindowServer[1695]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 13 11:52:22 iMac-yarshure.local WindowServer[1695]: Created shield window 0xd5 for display 0x003f003e
+May 13 11:52:22 iMac-yarshure.local WindowServer[1695]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 13 11:52:22 iMac-yarshure.local WindowServer[1695]: Created shield window 0xd6 for display 0x003f003f
+May 13 11:52:22 iMac-yarshure.local WindowServer[1695]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 13 11:52:22 iMac-yarshure.local WindowServer[1695]: Created shield window 0xd7 for display 0x003f0040
+May 13 11:52:22 iMac-yarshure.local WindowServer[1695]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 13 11:52:52 iMac-yarshure.local WindowServer[1695]: Received display connect changed for display 0x42801c0
+May 13 11:52:52 iMac-yarshure.local WindowServer[1695]: Created shield window 0xd8 for display 0x042801c0
+May 13 11:52:52 iMac-yarshure.local WindowServer[1695]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 13 11:52:52 iMac-yarshure.local WindowServer[1695]: Received display connect changed for display 0x3f003d
+May 13 11:52:52 iMac-yarshure.local WindowServer[1695]: Created shield window 0xd9 for display 0x04280381
+May 13 11:52:52 iMac-yarshure.local WindowServer[1695]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 13 11:52:52 iMac-yarshure.local WindowServer[1695]: Received display connect changed for display 0x3f003e
+May 13 11:52:52 iMac-yarshure.local WindowServer[1695]: Received display connect changed for display 0x3f003f
+May 13 11:52:52 iMac-yarshure.local WindowServer[1695]: Received display connect changed for display 0x3f0040
+May 13 11:52:52 iMac-yarshure.local WindowServer[1695]: MPServiceForDisplayDevice: Invalid device alias (0)
+May 13 11:52:52 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 13 11:52:52 iMac-yarshure.local WindowServer[1695]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x00004613, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 13 11:52:52 iMac-yarshure.local WindowServer[1695]: Display 0x003f0040: GL mask 0x10; bounds (2304, 0)[1 x 1], 1 modes available
+May 13 11:52:52 iMac-yarshure.local WindowServer[1695]: Display 0x003f003f: GL mask 0x8; bounds (2305, 0)[1 x 1], 1 modes available
+May 13 11:52:52 iMac-yarshure.local WindowServer[1695]: Display 0x003f003e: GL mask 0x4; bounds (2306, 0)[1 x 1], 1 modes available
+May 13 11:52:52 iMac-yarshure.local WindowServer[1695]: Display 0x04280381: GL mask 0x2; bounds (2560, 0)[2880 x 1800], 81 modes available
+May 13 11:52:53 iMac-yarshure.local WindowServer[1695]: Created shield window 0xda for display 0x042801c0
+May 13 11:52:53 iMac-yarshure.local WindowServer[1695]: Created shield window 0xdb for display 0x003f0040
+May 13 11:52:53 iMac-yarshure.local WindowServer[1695]: Created shield window 0xdc for display 0x003f003f
+May 13 11:52:53 iMac-yarshure.local WindowServer[1695]: Created shield window 0xdd for display 0x003f003e
+May 13 11:52:53 iMac-yarshure.local WindowServer[1695]: Created shield window 0xde for display 0x04280381
+May 13 11:52:53 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: MappedDisplay Unit 0: Startup Mode 2560 x 1440, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 13 11:52:53 iMac-yarshure.local WindowServer[1695]: Display 0x04280381: MappedDisplay Unit 1: Startup Mode 2880 x 1800, CGSThirtytwoBitColor, Resolution 1, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 13 11:52:53 iMac-yarshure.local WindowServer[1695]: Display added
+May 13 11:52:53 iMac-yarshure.local WindowServer[1695]: Display removed
+May 13 11:52:53 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 54 modes available
+May 13 11:52:53 iMac-yarshure.local WindowServer[1695]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x00004613, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 13 11:52:53 iMac-yarshure.local WindowServer[1695]: Display 0x003f0040: GL mask 0x10; bounds (6464, 0)[1 x 1], 1 modes available
+May 13 11:52:53 iMac-yarshure.local WindowServer[1695]: Display 0x003f003f: GL mask 0x8; bounds (6465, 0)[1 x 1], 1 modes available
+May 13 11:52:53 iMac-yarshure.local WindowServer[1695]: Display 0x003f003e: GL mask 0x4; bounds (6466, 0)[1 x 1], 1 modes available
+May 13 11:52:53 iMac-yarshure.local WindowServer[1695]: Display 0x04280381: GL mask 0x2; bounds (2560, 0)[2880 x 1800], 81 modes available
+May 13 11:52:53 iMac-yarshure.local WindowServer[1695]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x00004613, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 13 11:52:53 iMac-yarshure.local WindowServer[1695]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x10e648b90  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 13 11:52:53 iMac-yarshure.local WindowServer[1695]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x04280381 device: 0x10e648a10  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 13 11:52:54 iMac-yarshure.local WindowServer[1695]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 13 11:52:54 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 2, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 11:52:54 iMac-yarshure.local WindowServer[1695]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 3, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 11:52:54 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 2, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 11:52:54 iMac-yarshure.local WindowServer[1695]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 3, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 11:52:54 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 2, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 11:52:54 iMac-yarshure.local WindowServer[1695]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 3, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 11:52:55 iMac-yarshure.local WindowServer[1695]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 13 11:52:55 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 2, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 11:52:55 iMac-yarshure.local WindowServer[1695]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 3, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 11:52:55 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 2, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 11:52:55 iMac-yarshure.local WindowServer[1695]: Display 0x04280381: MappedDisplay Unit 1; ColorProfile { 3, "Color LCD"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 11:54:34 iMac-yarshure.local WindowServer[1695]: Received display connect changed for display 0x42801c0
+May 13 11:54:34 iMac-yarshure.local WindowServer[1695]: Created shield window 0xe4 for display 0x042801c0
+May 13 11:54:34 iMac-yarshure.local WindowServer[1695]: handle_will_sleep_auth_and_shield_windows: no lock state data
+May 13 11:54:34 iMac-yarshure.local WindowServer[1695]: Received display connect changed for display 0x4280381
+May 13 11:54:34 iMac-yarshure.local WindowServer[1695]: Received display connect changed for display 0x3f003e
+May 13 11:54:34 iMac-yarshure.local WindowServer[1695]: Received display connect changed for display 0x3f003f
+May 13 11:54:34 iMac-yarshure.local WindowServer[1695]: Received display connect changed for display 0x3f0040
+May 13 11:54:34 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[2560 x 1440], 78 modes available
+May 13 11:54:34 iMac-yarshure.local WindowServer[1695]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x00004613, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 13 11:54:34 iMac-yarshure.local WindowServer[1695]: Display 0x003f0040: GL mask 0x10; bounds (6464, 0)[1 x 1], 1 modes available
+May 13 11:54:34 iMac-yarshure.local WindowServer[1695]: Display 0x003f003f: GL mask 0x8; bounds (6465, 0)[1 x 1], 1 modes available
+May 13 11:54:34 iMac-yarshure.local WindowServer[1695]: Display 0x003f003e: GL mask 0x4; bounds (6466, 0)[1 x 1], 1 modes available
+May 13 11:54:34 iMac-yarshure.local WindowServer[1695]: Display 0x003f003d: GL mask 0x2; bounds (2560, 0)[1 x 1], 1 modes available
+May 13 11:54:34 iMac-yarshure.local WindowServer[1695]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x00004613, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 13 11:54:35 iMac-yarshure.local WindowServer[1695]: Created shield window 0xe5 for display 0x042801c0
+May 13 11:54:35 iMac-yarshure.local WindowServer[1695]: Created shield window 0xe6 for display 0x003f0040
+May 13 11:54:35 iMac-yarshure.local WindowServer[1695]: Created shield window 0xe7 for display 0x003f003f
+May 13 11:54:35 iMac-yarshure.local WindowServer[1695]: Created shield window 0xe8 for display 0x003f003e
+May 13 11:54:35 iMac-yarshure.local WindowServer[1695]: Created shield window 0xe9 for display 0x003f003d
+May 13 11:54:35 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: MappedDisplay Unit 0: Startup Mode 1280 x 720, CGSThirtytwoBitColor, Resolution 2, IOMode 0x43e, IODepth 0x1, IOReturn 0x0
+May 13 11:54:35 iMac-yarshure.local WindowServer[1695]: Display mode changed
+May 13 11:54:35 iMac-yarshure.local WindowServer[1695]: Display added
+May 13 11:54:35 iMac-yarshure.local WindowServer[1695]: Display removed
+May 13 11:54:35 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: GL mask 0x1; bounds (0, 0)[1280 x 720], 78 modes available
+May 13 11:54:35 iMac-yarshure.local WindowServer[1695]: GLCompositor: GL renderer id 0x01021b06, GL mask 0x0000001f, accelerator 0x00004613, unit 0, caps QEX|QGL|MIPMAP, vram 512 MB
+May 13 11:54:35 iMac-yarshure.local WindowServer[1695]: Display 0x003f0040: GL mask 0x10; bounds (2304, 0)[1 x 1], 1 modes available
+May 13 11:54:35 iMac-yarshure.local WindowServer[1695]: Display 0x003f003f: GL mask 0x8; bounds (2305, 0)[1 x 1], 1 modes available
+May 13 11:54:35 iMac-yarshure.local WindowServer[1695]: Display 0x003f003e: GL mask 0x4; bounds (2306, 0)[1 x 1], 1 modes available
+May 13 11:54:35 iMac-yarshure.local WindowServer[1695]: Display 0x003f003d: GL mask 0x2; bounds (2307, 0)[1 x 1], 1 modes available
+May 13 11:54:35 iMac-yarshure.local WindowServer[1695]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x042801c0 device: 0x10e648b90  isBackBuffered: 1 numComp: 3 numDisp: 3
+May 13 11:54:36 iMac-yarshure.local WindowServer[1695]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 13 11:54:36 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 2, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
+May 13 11:54:37 iMac-yarshure.local WindowServer[1695]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'.
+May 13 11:54:37 iMac-yarshure.local WindowServer[1695]: Display 0x042801c0: MappedDisplay Unit 0; ColorProfile { 2, "iMac"}; TransferFormula (1.000000, 1.000000, 1.000000)
