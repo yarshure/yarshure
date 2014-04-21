@@ -7,10 +7,6 @@
 #include <unistd.h>
 #include <sys/mman.h>
 #include <stdlib.h> 
-// wget http://bigota.miwifi.com/xiaoqiang/rom/brcm4709_hdk_0027c_0.4.38.bin
-// ./unpack brcm4709_hdk_0027c_0.4.38.bin
-// ext4.rootfs.lzma , then use unlzma unpack 
-// kernel.trx 4709 kernel trx 
 int main(int argv, char *argc[])
 
 {
@@ -32,7 +28,7 @@ int main(int argv, char *argc[])
 	char  *buf ;
 
 	buf = malloc(4);
-	int file1 = open("ext4.rootfs.lzma",O_RDWR|O_CREAT);
+	int file1 = open("ext4.rootfs.lzma",O_RDWR|O_CREAT|O_TRUNC,0666);
 	char  *ptr;
 	ptr = addr;
 	ptr += start;
@@ -44,7 +40,7 @@ int main(int argv, char *argc[])
 		memcpy(buf, ptr ,4);
 		if (strncmp(buf,HDR0,4) ==0){
 			write(file1, ptr0, i);
-			int kfd = open("kernel.trx",O_RDWR|O_CREAT);
+			int kfd = open("kernel.trx",O_RDWR|O_CREAT|O_TRUNC,0666);
 			write(kfd, ptr, len-256-i-pad);
 			close(kfd);
 			printf("find %s, %d\n",HDR0,i);
